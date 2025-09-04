@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CHAT one-word domains still available to buy.
 
-This dataset contains 3,627 .CHAT one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,652 .CHAT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CHAT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=description.top) (3,403) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.CHAT one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/chat-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/chat-oneword-domains/blob/main/chat.csv"><b>⬇️ CSV (3.63K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/chat-oneword-domains/blob/main/chat.json"><b>⬇️ JSON (3.63K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/chat-oneword-domains/blob/main/chat.csv"><b>⬇️ CSV (3.65K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/chat-oneword-domains/blob/main/chat.json"><b>⬇️ JSON (3.65K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.4K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.chat  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.chat      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.chat  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.chat    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.chat     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.chat   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.chat     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.chat    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.chat   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.chat  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.chat  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.chat | available | 56       | 1%     | 10     |           |         |         |
-| abducens.chat   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.chat   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.chat  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.chat    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.chat | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.chat   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.chat    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.chat  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.chat    | available | 106      | 5%     | 7      |           |         |         |
-| abient.chat     | available | 54       | 1%     | 6      |           |         |         |
-| abit.chat       | available | 66       | 16%    | 5      |           |         |         |
-| abject.chat     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.chat     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.chat  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.chat     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.chat  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.chat    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.chat   | available | 68       | 3%     | 8      |           |         |         |
+| Domain          | Status    | Attract. | Demand | Length | Registrar                                           | Created          | Expires          |
+| --------------- | --------- | -------- | ------ | ------ | --------------------------------------------------- | ---------------- | ---------------- |
+| abactinal.chat  | available | 50       | 1%     | 9      |                                                     |                  |                  |
+| abaft.chat      | available | 43       | 2%     | 5      |                                                     |                  |                  |
+| abandoned.chat  | available | 58       | 10%    | 9      |                                                     |                  |                  |
+| abashed.chat    | available | 60       | 2%     | 7      |                                                     |                  |                  |
+| abasic.chat     | available | 54       | 2%     | 6      |                                                     |                  |                  |
+| abatable.chat   | available | 54       | 1%     | 8      |                                                     |                  |                  |
+| abatic.chat     | available | 54       | 2%     | 6      |                                                     |                  |                  |
+| abaxial.chat    | available | 54       | 2%     | 7      |                                                     |                  |                  |
+| abbatial.chat   | available | 50       | 1%     | 8      |                                                     |                  |                  |
+| abdicable.chat  | available | 50       | 1%     | 9      |                                                     |                  |                  |
+| abdominal.chat  | available | 82       | 1%     | 9      |                                                     |                  |                  |
+| abdominous.chat | available | 56       | 1%     | 10     |                                                     |                  |                  |
+| abducens.chat   | available | 54       | 1%     | 8      |                                                     |                  |                  |
+| abducent.chat   | available | 68       | 1%     | 8      |                                                     |                  |                  |
+| abducting.chat  | available | 50       | 1%     | 9      |                                                     |                  |                  |
+| abenaki.chat    | available | 82       | 3%     | 7      |                                                     |                  |                  |
+| aberdonian.chat | available | 68       | 1%     | 10     |                                                     |                  |                  |
+| aberrant.chat   | available | 74       | 7%     | 8      |                                                     |                  |                  |
+| abeyant.chat    | available | 56       | 2%     | 7      |                                                     |                  |                  |
+| abhorrent.chat  | available | 54       | 1%     | 9      |                                                     |                  |                  |
+| abiding.chat    | available | 106      | 5%     | 7      |                                                     |                  |                  |
+| abient.chat     | available | 54       | 1%     | 6      |                                                     |                  |                  |
+| ability.chat    | resell    | 92       | 18%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. | 04/11/2024 21:40 | 04/11/2025 21:40 |
+| abit.chat       | available | 66       | 16%    | 5      |                                                     |                  |                  |
+| abject.chat     | available | 94       | 8%     | 6      |                                                     |                  |                  |
+| abkhas.chat     | available | 68       | 1%     | 6      |                                                     |                  |                  |
+| abkhasian.chat  | available | 78       | 1%     | 9      |                                                     |                  |                  |
+| abkhaz.chat     | available | 82       | 2%     | 6      |                                                     |                  |                  |
+| abkhazian.chat  | available | 78       | 1%     | 9      |                                                     |                  |                  |
+| ablated.chat    | available | 52       | 2%     | 7      |                                                     |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/chat-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/chat-oneword-domains/blob/main/chat.csv"><b>⬇️ CSV (3.63K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/chat-oneword-domains/blob/main/chat.json"><b>⬇️ JSON (3.63K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/chat-oneword-domains/blob/main/chat.csv"><b>⬇️ CSV (3.65K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/chat-oneword-domains/blob/main/chat.json"><b>⬇️ JSON (3.65K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.4K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
