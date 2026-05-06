@@ -119,7 +119,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a6ec8ee-0fa6-4a8a-a943-7eadd3133b15,Ineedaguide.chat,available,58.98,,50,1,14,namecheap,,
 0aa541a8-e10a-4937-81ee-afec4ac59698,findingout.chat,available,9.99,,58,2,11,name.com,,
 0ab08c8f-729b-436c-ab57-162a3cd9f75d,sacks.chat,available,9.99,,59,8,5,name.com,,
-0b2f8bd8-53f8-4853-9a2e-2cebcae25264,frame.chat,resell,,,64,36,5,"Sav.com, LLC - 47",15/02/2026 15:15,15/02/2027 15:15
+0b2f8bd8-53f8-4853-9a2e-2cebcae25264,frame.chat,resell,,,64,37,5,"Sav.com, LLC - 47",15/02/2026 15:15,15/02/2027 15:15
 0b2fb09d-8560-427c-b63f-fd65fb7017c5,takeajoke.chat,available,9.99,,76,1,11,name.com,,
 0b4e7ee7-e26d-4df5-81c9-65fe44068b8b,turns.chat,available,9.99,,62,7,5,name.com,,
 0b640e88-dea0-467d-a87e-f72b3471de2b,disappoints.chat,available,9.99,,36,1,11,name.com,,
@@ -288,6 +288,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1ba26d6f-ee40-4d60-ab09-da600193cd77,probablecause.chat,available,9.99,,55,2,14,name.com,,
 1ba98715-0fd5-4dcc-ba2b-43c90cae75d8,demonstrates.chat,available,9.99,,56,2,12,name.com,,
 1bb6a0f5-7c58-4ecc-aac5-4d1736571c29,estateagency.chat,available,9.99,,42,4,13,name.com,,
+1bbc3737-d942-482c-ac08-a39e5de24c69,bucket.chat,resell,,,62,19,6,"Sav.com, LLC - 11",30/10/2025 15:16,30/10/2026 15:16
 1bd2073c-d091-4907-bdc8-6e0a6bc15c23,cabins.chat,available,9.99,,58,9,6,name.com,,
 1bd2957d-a300-403a-9751-3af9fa83b382,saloons.chat,available,9.99,,49,4,7,name.com,,
 1bdfddad-9f4a-41ae-a556-dc2a5edbf257,females.chat,available,9.99,,62,8,7,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6024de3e-6a07-4591-8f2a-1ad51e50d3a9,keepunder.chat,available,9.99,,66,1,10,name.com,,
 602c75ce-2b4e-4e21-a567-99dc7b49e43f,updated.chat,available,9.99,,52,10,7,name.com,,
 603aeef7-002f-4914-b3ea-b59a9e1baf60,attentions.chat,available,9.99,,54,4,10,name.com,,
-60406b43-580b-4b3f-bd74-72d947f7f425,stretchout.chat,available,9.99,,70,2,11,name.com,,
