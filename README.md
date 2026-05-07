@@ -79,7 +79,7 @@ print(df.head())
 | you.chat        | resell    | —         | —             | 74             | 52     | 3      | Porkbun LLC |
 | Media.chat      | premium   | $140      | $280          | 60             | 46     | 5      | namecheap   |
 | guns.chat       | available | $9.99     | —             | 68             | 22     | 4      | name.com    |
-| sales.chat      | resell    | —         | —             | 72             | 42     | 5      | Porkbun LLC |
+| sales.chat      | resell    | —         | —             | 72             | 41     | 5      | Porkbun LLC |
 | partners.chat   | premium   | $46.20    | $92.40        | 61             | 32     | 8      | namecheap   |
 | signs.chat      | available | $9.99     | —             | 64             | 22     | 5      | name.com    |
 | simply.chat     | resell    | —         | —             | 68             | 41     | 6      | Porkbun LLC |
