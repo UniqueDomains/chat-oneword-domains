@@ -298,6 +298,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1bfd9ab1-4b9e-4657-a757-223b4aa6bcd1,LordofHosts.chat,available,58.98,,54,2,13,namecheap,,
 1c092464-2023-4a08-a5b4-53120c2998b8,ovens.chat,available,9.99,,55,6,5,name.com,,
 1c2bdc27-acd4-46de-b17a-d2a73e365683,changeout.chat,available,9.99,,50,1,10,name.com,,
+1c44164f-d73e-42cb-afac-5c6ab18991e4,price.chat,premium,,,68,34,5,,,
 1c4d8917-4ef6-41d8-893a-7f98e629f00c,provided.chat,available,9.99,,48,3,8,name.com,,
 1c5bfec7-3144-40a2-b1ef-ac605dd6e5b3,faintest.chat,available,9.99,,56,1,8,name.com,,
 1c941468-aaf5-4aec-b764-e1c69aa7b30f,wellmanaged.chat,available,9.99,,60,4,12,name.com,,
@@ -722,7 +723,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 43b91a1b-9ff1-4976-8389-58651b8059dd,chickensalad.chat,available,9.99,,76,3,13,name.com,,
 43c14d4b-81ce-4c83-99a3-e7b50a4ecdc6,searched.chat,available,9.99,,60,7,8,name.com,,
 43d694ac-b4cd-4d45-b2c5-2e81303674ef,recruited.chat,available,9.99,,58,5,9,name.com,,
-43e115f6-0472-4284-9050-194bfaa3a9bb,ladder.chat,resell,,,76,20,6,"Sav.com, LLC - 46",04/02/2026 15:16,04/02/2027 15:16
+43e115f6-0472-4284-9050-194bfaa3a9bb,ladder.chat,resell,,,76,19,6,"Sav.com, LLC - 46",04/02/2026 15:16,04/02/2027 15:16
 43f80673-f259-405d-9069-13b9700366dd,Ihaveasthma.chat,available,58.98,,50,1,13,namecheap,,
 440fc8c4-4f70-4b82-806b-839e20a78310,oars.chat,available,9.99,,56,6,4,name.com,,
 4429567c-7bdd-4277-a306-ce6c1cfab717,sidewalks.chat,available,9.99,,56,5,9,name.com,,
@@ -785,6 +786,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 49c8b75b-cb43-4eb8-9de6-4f76bbd11d7c,flaxseed.chat,available,9.99,,80,4,9,name.com,,
 49e954a6-c06e-470e-ad68-c8ca599b1178,generalmeeting.chat,available,9.99,,46,2,15,name.com,,
 4a1b9601-ffe4-4888-9389-dc9b41bcbb43,hangbyathread.chat,available,9.99,,56,1,16,name.com,,
+4a3a781c-16a2-4e27-a3b2-0a886847b028,jasmine.chat,resell,,,69,22,7,"Sav.com, LLC - 11",25/07/2025 15:15,25/07/2026 15:15
 4a3bdea3-4760-43f4-b144-e9a9d9a094e1,godeep.chat,available,9.99,,74,7,7,name.com,,
 4a47e2dc-af5e-4875-abdf-08faa29fb94e,orderarms.chat,available,9.99,,70,1,10,name.com,,
 4a961092-362a-4996-97bb-5dfa9f377c27,notifies.chat,available,9.99,,50,3,8,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5ff01173-934d-459f-8c13-f51ad447f521,goape.chat,available,9.99,,76,5,6,name.com,,
 60233891-4984-43ed-9e5f-58449d8c89bc,businessstudies.chat,available,9.99,,70,2,16,name.com,,
 6024de3e-6a07-4591-8f2a-1ad51e50d3a9,keepunder.chat,available,9.99,,66,1,10,name.com,,
-602c75ce-2b4e-4e21-a567-99dc7b49e43f,updated.chat,available,9.99,,52,10,7,name.com,,
-603aeef7-002f-4914-b3ea-b59a9e1baf60,attentions.chat,available,9.99,,54,4,10,name.com,,
