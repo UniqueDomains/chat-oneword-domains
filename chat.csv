@@ -579,6 +579,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36cfeb2b-d854-4a57-ace6-a367aba04997,victories.chat,available,9.99,,58,5,9,name.com,,
 36f6018f-5b3e-4b1a-89d9-d52f1c5a1790,actions.chat,available,9.99,,54,15,7,name.com,,
 36f780fb-fc87-45e4-bec6-24933698f4aa,tasked.chat,available,9.99,,53,6,6,name.com,,
+36fb8ad5-07e8-47eb-8ecc-a3da06b0b58e,vent.chat,resell,,,62,17,4,"Sav.com, LLC - 13",06/02/2026 15:15,06/02/2027 15:15
 370c4057-97f5-4881-b087-825ce0585063,arrivingat.chat,available,9.99,,50,1,11,name.com,,
 370ea271-33c1-4f34-b67e-58bcf880a072,successors.chat,available,9.99,,55,3,10,name.com,,
 370f43c5-e308-44fc-937f-e915853db020,eachtime.chat,available,9.99,,56,2,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5fa8a8ca-8243-444c-aa27-d5bde76b9575,pads.chat,available,9.99,,68,10,4,name.com,,
 5ff01173-934d-459f-8c13-f51ad447f521,goape.chat,available,9.99,,76,5,6,name.com,,
 60233891-4984-43ed-9e5f-58449d8c89bc,businessstudies.chat,available,9.99,,70,2,16,name.com,,
-6024de3e-6a07-4591-8f2a-1ad51e50d3a9,keepunder.chat,available,9.99,,66,1,10,name.com,,
