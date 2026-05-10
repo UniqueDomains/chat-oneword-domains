@@ -76,7 +76,7 @@ print(df.head())
 | FabFour.chat    | available | $9.99     | —             | 82             | 3      | 8      | name.com    |
 | beawake.chat    | available | $9.99     | —             | 84             | 3      | 8      | name.com    |
 | motorsport.chat | available | $9.99     | —             | 74             | 23     | 10     | name.com    |
-| you.chat        | resell    | —         | —             | 74             | 52     | 3      | Porkbun LLC |
+| you.chat        | resell    | —         | —             | 74             | 51     | 3      | Porkbun LLC |
 | Media.chat      | premium   | $140      | $280          | 60             | 46     | 5      | namecheap   |
 | guns.chat       | available | $9.99     | —             | 68             | 22     | 4      | name.com    |
 | sales.chat      | resell    | —         | —             | 72             | 41     | 5      | Porkbun LLC |
