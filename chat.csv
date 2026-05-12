@@ -32,7 +32,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 022dc6b7-b7c8-4f37-b12e-9a5cc27a7ce1,cups.chat,available,9.99,,60,12,4,name.com,,
 023783a4-e7f5-4ab7-8458-e7259e3b2023,Iputittoyou.chat,available,58.98,,50,1,15,namecheap,,
 02456c9f-23b6-4dff-a8ef-57a12206a49a,stepup.chat,available,9.99,,78,19,7,name.com,,
-02604fda-0eac-4f89-bda2-3fabd3c68049,LGBTQ.chat,resell,,,86,17,5,Dynadot Inc,15/02/2024 17:00,15/02/2027 17:00
+02604fda-0eac-4f89-bda2-3fabd3c68049,LGBTQ.chat,resell,,,86,20,5,Dynadot Inc,15/02/2024 17:00,15/02/2027 17:00
 0267a65b-f5eb-42c0-a45f-66b1a0138813,wrists.chat,available,9.99,,49,3,6,name.com,,
 02b15379-04ba-423c-9d31-d45feaa31a17,comeunder.chat,available,9.99,,70,1,10,name.com,,
 02e31ec3-5dd8-4c23-a401-12ee199feb3a,characterised.chat,available,9.99,,48,1,13,name.com,,
@@ -84,6 +84,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 06bfb380-f9e2-4cd9-a685-434f8fe29808,takeeffect.chat,available,9.99,,70,0,11,name.com,,
 06c83e6b-57be-4dd6-9d6d-c020c8106b1c,lordsandladies.chat,available,9.99,,68,2,16,name.com,,
 06ec6faf-6ac7-44b0-af9d-9e7b691708a2,hangover.chat,available,9.99,,62,12,9,name.com,,
+06fd61dd-a6ea-41d8-9448-62a19a85a93c,woops.chat,available,9.99,,74,8,5,name.com,,
 0724fe73-7c08-4bab-b176-2833b46da9a4,aunts.chat,available,9.99,,54,2,5,name.com,,
 07443941-7270-4787-8378-4e5477f7c958,childrapist.chat,available,9.99,,38,1,12,name.com,,
 0751463b-8461-460f-a809-a32e0068c7fe,indanger.chat,available,9.99,,60,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5f6531ab-352a-43c4-96ee-920382a02292,polled.chat,available,9.99,,69,3,6,name.com,,
 5fa8a8ca-8243-444c-aa27-d5bde76b9575,pads.chat,available,9.99,,68,10,4,name.com,,
 5ff01173-934d-459f-8c13-f51ad447f521,goape.chat,available,9.99,,76,5,6,name.com,,
-60233891-4984-43ed-9e5f-58449d8c89bc,businessstudies.chat,available,9.99,,70,2,16,name.com,,
