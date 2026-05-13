@@ -405,6 +405,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2508a2e3-34f6-4198-9192-6c605c92daf3,executivecontrol.chat,available,9.99,,64,1,17,name.com,,
 2514440f-3306-45f0-947a-3c0df3b629b5,gowalking.chat,available,9.99,,50,2,10,name.com,,
 251ead82-e1cb-4093-bfa5-0c897b14a5b2,closeones.chat,available,9.99,,52,1,10,name.com,,
+252b5ccf-2500-469a-a02c-15d5e3a730bc,Women.chat,resell,,,77,31,5,"NameCheap, Inc.",19/04/2026 15:16,19/04/2027 15:16
 25a62bf0-4fe5-46a7-8c08-62730ef0e557,surveys.chat,resell,,,56,15,7,Dynadot Inc,19/06/2025 07:43,19/06/2026 07:43
 25c64eac-650e-4788-a657-0a145520d89f,besupposedto.chat,available,9.99,,60,1,14,name.com,,
 25dfa44f-3483-4f11-a43d-f2f0570d7adb,coffeewoman.chat,available,9.99,,80,2,11,name.com,,
@@ -884,7 +885,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54c102b8-ea4f-4c4f-8cd4-0d59b49ed746,sits.chat,available,9.99,,54,10,4,name.com,,
 54c25887-0cb7-4136-9f54-626e9df145de,estimators.chat,available,9.99,,50,3,10,name.com,,
 54cbf8c1-e001-4208-a827-bee11c5fa353,overdressed.chat,available,9.99,,64,3,12,name.com,,
-54d324b7-42c7-4a92-89e9-0f011a6d9fef,Media.chat,premium,140,280,60,46,5,namecheap,,
+54d324b7-42c7-4a92-89e9-0f011a6d9fef,Media.chat,premium,140,280,60,47,5,namecheap,,
 54dbd9fb-3dad-4abb-93a2-4d5f22a0fcd1,passports.chat,available,9.99,,59,10,9,name.com,,
 54eaf639-ca8b-4311-9d4b-8c83b5eb0bd7,intandem.chat,available,9.99,,72,7,9,name.com,,
 5506c04a-a044-43b7-96e6-a368178f6ce4,coffeemilk.chat,available,9.99,,80,3,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5f41e0fa-dd7c-435e-b826-2b7be8ca9988,subsequently.chat,available,9.99,,58,1,12,name.com,,
 5f6531ab-352a-43c4-96ee-920382a02292,polled.chat,available,9.99,,69,3,6,name.com,,
 5fa8a8ca-8243-444c-aa27-d5bde76b9575,pads.chat,available,9.99,,68,10,4,name.com,,
-5ff01173-934d-459f-8c13-f51ad447f521,goape.chat,available,9.99,,76,5,6,name.com,,
