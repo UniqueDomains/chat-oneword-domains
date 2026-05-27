@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .chat one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,237 domains · **Median ask:** $14.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/chat`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | Media.chat      | premium   | $140      | $280          | 60             | 47     | 5      | namecheap   |
 | guns.chat       | available | $9.99     | —             | 68             | 22     | 4      | name.com    |
 | sales.chat      | resell    | —         | —             | 72             | 41     | 5      | Porkbun LLC |
-| partners.chat   | premium   | $46.20    | $92.40        | 61             | 32     | 8      | namecheap   |
+| partners.chat   | premium   | $46.20    | $92.40        | 61             | 31     | 8      | namecheap   |
 | signs.chat      | available | $9.99     | —             | 64             | 22     | 5      | name.com    |
 | simply.chat     | resell    | —         | —             | 68             | 41     | 6      | Porkbun LLC |
 | systems.chat    | premium   | $69.30    | $138.60       | 46             | 27     | 7      | namecheap   |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHAT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHAT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
