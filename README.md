@@ -1,10 +1,10 @@
-# Available .CHAT One-Word Domains (10,237)
+# Available .CHAT One-Word Domains (10,236)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C237%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C236%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .chat one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,237 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,236 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,237 domains · **Median ask:** $14.75 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,236 domains · **Median ask:** $12.85 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/chat`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/chat`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CHAT one-word domain 
 
 ### Files
 
-- `chat.csv` — public CSV extract (1,000 rows)
-- `chat.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `chat.csv`, public CSV extract (1,000 rows)
+- `chat.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| Acup.chat       | available | $58.98    | —             | 80             | 5      | 5      | namecheap   |
-| finals.chat     | available | $9.99     | —             | 80             | 7      | 6      | name.com    |
-| forces.chat     | available | $9.99     | —             | 82             | 12     | 6      | name.com    |
-| getup.chat      | available | $9.99     | —             | 82             | 15     | 6      | name.com    |
-| useit.chat      | available | $9.99     | —             | 94             | 7      | 6      | name.com    |
-| edamame.chat    | available | $9.99     | —             | 80             | 9      | 7      | name.com    |
-| playin.chat     | available | $9.99     | —             | 80             | 10     | 7      | name.com    |
-| playon.chat     | available | $9.99     | —             | 80             | 14     | 7      | name.com    |
-| stirup.chat     | available | $9.99     | —             | 82             | 3      | 7      | name.com    |
-| FabFour.chat    | available | $9.99     | —             | 82             | 3      | 8      | name.com    |
-| beawake.chat    | available | $9.99     | —             | 84             | 3      | 8      | name.com    |
-| motorsport.chat | available | $9.99     | —             | 74             | 23     | 10     | name.com    |
-| you.chat        | resell    | —         | —             | 74             | 51     | 3      | Porkbun LLC |
-| Media.chat      | premium   | $140      | $280          | 60             | 47     | 5      | namecheap   |
-| guns.chat       | available | $9.99     | —             | 68             | 22     | 4      | name.com    |
-| sales.chat      | resell    | —         | —             | 72             | 41     | 5      | Porkbun LLC |
-| partners.chat   | premium   | $46.20    | $92.40        | 61             | 31     | 8      | namecheap   |
-| signs.chat      | available | $9.99     | —             | 64             | 22     | 5      | name.com    |
-| simply.chat     | resell    | —         | —             | 68             | 41     | 6      | Porkbun LLC |
-| systems.chat    | premium   | $69.30    | $138.60       | 46             | 27     | 7      | namecheap   |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| aged.chat    | available | $9.99     | $50.99        | high           | low    | 4      | name.com                                     |
+| select.chat  | resell    | $9.99     | —             | high           | low    | 6      | Spaceship, Inc.                              |
+| ate.chat     | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                                    |
+| ages.chat    | available | $9.99     | —             | medium         | low    | 4      | name.com                                     |
+| telecom.chat | resell    | $9.99     | —             | high           | low    | 7      | NameCheap, Inc.                              |
+| beg.chat     | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                    |
+| brie.chat    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| ass.chat     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                  |
+| nun.chat     | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap                                    |
+| bury.chat    | available | $9.99     | —             | medium         | low    | 4      | name.com                                     |
+| xxx.chat     | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                 |
+| pen.chat     | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap                                    |
+| bust.chat    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| able.chat    | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| suv.chat     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| came.chat    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| bank.chat    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                              |
+| ugh.chat     | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                    |
+| coat.chat    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
+| burn.chat    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,237 live domains                        |
+| 1,000-row public sample | 10,236 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is defined by a single trait: every domain uses the .chat extension and a one-word format. That makes the comparison more specific than a broad domain market view. Names in this selection range from dictionary-style words such as jewels.chat and finals.chat to action-oriented forms like getup.chat, useit.chat, and gearup.chat. The median ask is 14.76, which keeps price screening simple, but the key decision is not price alone. When comparing these domains, weigh word clarity, commercial intent, memorability, and whether the .chat ending strengthens or weakens the name in the context you want to own.
+This list gathers one-word .chat domain names — short strings like fitinto.chat, playin.chat, and getlife.chat that pair a dictionary word or brandable term with the .chat extension. With a median asking price near $12.85 across 10,236 listings, the set spans everyday words and compact phrases suited to chat apps, messaging tools, and community platforms. Because .chat directly signals conversation and interaction, these names fit products where a .com equivalent may already be taken or priced far higher.
 
-- All domains in this selection use the .chat extension
-- Median ask across the set is 14.76
-- Samples include Acup.chat, jewels.chat, and gearup.chat
-- Prioritize clear words that fit a conversation-led use
+- 10,236 one-word .chat domains in this set, updated daily
+- Median asking price near $12.85 — accessible entry point
+- Short, brandable strings suited to chat, social & AI tools
+- Compare pricing and renewal before committing to a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHAT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHAT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
