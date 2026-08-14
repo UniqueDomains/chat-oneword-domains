@@ -1,10 +1,10 @@
-# Available .CHAT One-Word Domains (12,293)
+# Available .CHAT One-Word Domains (12,907)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C293%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C907%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .chat one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,293 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,907 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,293 domains · **Median ask:** $10.53 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,907 domains · **Median ask:** $10.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/tld/chat`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| damn.chat    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
-| time.chat    | resell    | —         | —             | high           | medium | 4      | 101domain GRS Limited                        |
-| aged.chat    | available | $9.99     | $50.99        | high           | low    | 4      | name.com                                     |
-| select.chat  | resell    | $9.99     | —             | high           | low    | 6      | Spaceship, Inc.                              |
-| ass.chat     | premium   | $21.45    | $42.90        | low            | low    | 3      | namecheap                                    |
-| ages.chat    | available | $9.99     | —             | medium         | low    | 4      | name.com                                     |
-| telecom.chat | resell    | $9.99     | —             | high           | low    | 7      | NameCheap, Inc.                              |
-| ate.chat     | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                                    |
-| asat.chat    | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                                    |
-| xxx.chat     | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                 |
-| beg.chat     | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                    |
-| brie.chat    | available | $9.99     | —             | high           | low    | 4      | name.com                                     |
-| able.chat    | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
-| nun.chat     | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap                                    |
-| buns.chat    | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                                    |
-| bank.chat    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                              |
-| pen.chat     | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap                                    |
-| bury.chat    | available | $9.99     | —             | medium         | low    | 4      | name.com                                     |
-| burn.chat    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| suv.chat     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| aged.chat    | available | $9.99     | $50.99        | high           | low    | 4      | name.com                                                |
+| select.chat  | resell    | $9.99     | —             | high           | low    | 6      | Spaceship, Inc.                                         |
+| ass.chat     | premium   | $21.45    | $42.90        | low            | low    | 3      | namecheap                                               |
+| ages.chat    | available | $9.99     | —             | medium         | low    | 4      | name.com                                                |
+| telecom.chat | resell    | $9.99     | —             | high           | low    | 7      | NameCheap, Inc.                                         |
+| ate.chat     | premium   | $23.10    | $46.20        | high           | low    | 3      | namecheap                                               |
+| asat.chat    | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                                               |
+| xxx.chat     | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                            |
+| beg.chat     | premium   | $46.20    | $92.40        | medium         | low    | 3      | namecheap                                               |
+| brie.chat    | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| able.chat    | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                            |
+| nun.chat     | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap                                               |
+| buns.chat    | available | $5.98     | $58.98        | low            | low    | 4      | namecheap                                               |
+| bank.chat    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                         |
+| pen.chat     | premium   | $23.10    | $46.20        | medium         | low    | 3      | namecheap                                               |
+| bury.chat    | available | $9.99     | —             | medium         | low    | 4      | name.com                                                |
+| burn.chat    | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| suv.chat     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                               |
+| bust.chat    | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
+| cube.chat    | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,293 live domains                        |
+| 1,000-row public sample | 12,907 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHAT One-Word Domains*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHAT One-Word Domains*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
