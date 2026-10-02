@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 19bd4613-6be9-48fe-92a7-d2285dcaccd5,escapade.chat,available,5.98,58.98,high,low,8,namecheap,,,17/09/2026 10:37
 c9745d74-9104-4433-943d-3bf4add0dd66,lineal.chat,available,5.98,58.98,medium,low,6,namecheap,,,23/08/2026 14:16
-0dc60ee8-78fb-4a14-9fa4-f59eb6cae1f5,zooming.chat,available,9.99,,high,low,7,name.com,,,
+0dc60ee8-78fb-4a14-9fa4-f59eb6cae1f5,zooming.chat,available,10.5,,high,low,7,unstoppable,,,01/10/2026 17:57
 e04729b8-552f-443d-b0bc-6808f5676b72,afterimage.chat,available,5.98,58.98,high,low,10,namecheap,,,17/09/2026 15:42
 08fdc707-1c58-4eb9-9629-c72a81fd80f1,argun.chat,available,10.99,44.99,medium,low,5,namesilo,,,20/09/2026 04:51
 1a9130b6-4905-48bb-85c4-0441dd8866b5,brakes.chat,available,10.99,44.99,high,low,6,namesilo,,,24/09/2026 08:09
@@ -20,9 +20,12 @@ f2cb7322-1a18-493e-91f7-622cb20f0c7d,abbreviated.chat,available,5.38,36.43,mediu
 03dfaf18-c52d-43ee-a4b4-8351a73349e0,optical.chat,available,5.98,58.98,high,low,7,namecheap,,,04/09/2026 00:42
 40e82948-ce65-410a-9d3a-6fd87b095b2f,coercive.chat,available,5.98,58.98,medium,low,8,namecheap,,,12/08/2026 15:24
 5180257e-40b5-43a4-bf6c-888ec264edad,swartz.chat,available,10.5,,medium,low,6,unstoppable,,,30/09/2026 13:43
+bab36bc9-1b3e-46f5-b731-65532d55c7ae,injections.chat,available,35.2,35.2,low,low,10,cloudflare,,,01/10/2026 17:46
+7c7b342a-c9ce-4d99-9e22-061d9bfe9d72,compensated.chat,available,35.2,35.2,medium,low,11,cloudflare,,,01/10/2026 18:26
 6c4f005c-b7ad-4dca-adc8-a9ab1394c467,nuke.chat,premium,21.45,42.9,high,low,4,namecheap,,,21/09/2026 00:16
 fb7535fd-46ab-4206-b5c0-60c225c5995c,than.chat,available,5.66,36.56,high,low,4,porkbun,,,30/09/2026 23:17
 47f734c8-ec17-4b8b-98c3-efef2a3848d9,zambian.chat,premium,42.9,85.8,high,low,7,namecheap,,,13/09/2026 15:05
+93d83a02-357b-482f-a273-182aa720a8cd,sheba.chat,available,5.38,36.43,medium,low,5,spaceship,,,01/10/2026 10:07
 b5e0c37a-1d7b-4d1a-81e3-8ae5c794074b,bennington.chat,available,5.98,58.98,high,low,10,namecheap,,,23/09/2026 08:33
 3a23ae22-df95-4362-9584-a03682af6fad,forgery.chat,available,5.98,58.98,medium,low,7,namecheap,,,13/08/2026 03:36
 9f4f45d3-41fe-46b9-b0ba-b9d7b7d5f391,allegory.chat,available,10.99,44.99,high,low,8,namesilo,,,18/09/2026 10:41
@@ -33,6 +36,7 @@ fc902ef0-0745-4110-9fe5-82a53e16f5cd,explicable.chat,available,5.98,58.98,medium
 0525cda2-2de4-4ad9-9f38-869c617e647a,shelby.chat,available,10.99,44.99,high,low,6,namesilo,,,25/09/2026 15:30
 780c1786-9a80-4e84-8ea0-0bc4453d33a2,erse.chat,available,5.98,58.98,medium,low,4,namecheap,,,18/08/2026 19:28
 15169d8d-f5c5-4337-b075-59e8f51e3e71,disturbance.chat,available,5.38,36.43,medium,low,11,spaceship,,,28/09/2026 12:34
+3673f269-7720-4213-9040-f39031fac952,conveyors.chat,available,10.99,44.99,medium,low,9,namesilo,,,02/10/2026 03:29
 bdb493c0-3175-4d09-9644-3673c8386962,mastoid.chat,available,5.98,58.98,medium,low,7,namecheap,,,24/08/2026 16:48
 34d8434e-c445-41e7-9ec9-c931851f65ab,stuyvesant.chat,available,5.38,36.43,high,low,10,spaceship,,,29/09/2026 19:58
 35107f72-322f-4116-b5c8-6dc00dcb15b8,pillock.chat,available,5.98,58.98,low,low,7,namecheap,,,10/09/2026 23:13
@@ -56,8 +60,10 @@ fd53eec7-612b-4a7b-bd4b-48c323efc9bc,psychic.chat,resell,,,high,low,7,"NameSilo,
 35fec294-b091-458c-90a7-3aa836f4bd11,velar.chat,available,5.98,58.98,medium,low,5,namecheap,,,13/09/2026 01:59
 9b308912-485d-4f9e-93ea-ee1a0d7d0631,ebon.chat,available,5.98,58.98,medium,low,4,namecheap,,,14/08/2026 23:08
 5903206d-41bc-495c-a333-e49aa30f210e,brandenburg.chat,available,5.38,36.43,high,low,11,spaceship,,,27/09/2026 16:50
+0283da4f-f60d-4ea5-9c9a-dd307f7b0be3,hopkinson.chat,available,5.38,36.43,medium,low,9,spaceship,,,02/10/2026 04:57
 11f529bc-d3cd-41a9-828a-380fa79e5609,surrounds.chat,available,35.2,35.2,high,low,9,cloudflare,,,30/09/2026 15:44
 616acfb6-1d30-41d9-98ee-9502ace15b30,ambrosia.chat,available,5.98,58.98,high,low,8,namecheap,,,18/09/2026 17:26
+bc56d964-505f-4b0d-9484-69b13dab49e7,vasari.chat,available,35.2,35.2,medium,low,6,cloudflare,,,01/10/2026 19:48
 4a3b5b63-a28e-4e0f-bb6a-0bf779ca7a29,forties.chat,available,5.98,58.98,medium,low,7,namecheap,,,16/09/2026 12:06
 fab2a996-6315-44d6-9c15-722f87675d4d,tasselled.chat,available,5.98,58.98,medium,low,9,namecheap,,,11/09/2026 08:58
 c2a07d12-25dd-4d0d-96b0-22f8ec31f2a2,grapefruit.chat,available,5.98,58.98,high,low,10,namecheap,,,24/09/2026 15:09
@@ -70,28 +76,32 @@ e64fe736-38ba-41a8-99b9-a8ed0dd87a9e,eliminated.chat,available,35.2,35.2,medium,
 06d70be9-8615-4ef4-b763-19f46c83ad9c,rna.chat,premium,38.94,38.94,high,low,3,namesilo,,,25/09/2026 10:20
 41e371bc-be35-4b45-ae9b-a8302c817778,ardeb.chat,available,10.99,44.99,medium,low,5,namesilo,,,20/09/2026 03:06
 4385046e-2926-4108-ab74-8cbbae885a5b,boxlike.chat,available,5.98,58.98,medium,low,7,namecheap,,,10/08/2026 23:56
+499bb699-3bcc-45b4-aef4-dbaf22298a03,upgrades.chat,available,10.99,44.99,medium,low,8,namesilo,,,02/10/2026 03:27
 4824c351-c3e9-4cf2-9265-2df3becfed19,redberry.chat,available,10.99,44.99,medium,low,8,namesilo,,,17/09/2026 04:20
 c2d20ea7-0288-4711-bc17-550c58d09255,dart.chat,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",21/12/2023 17:00,21/12/2026 17:00,26/09/2026 05:25
 5855d214-35b7-4476-b67d-3adc3edff6dc,spiritless.chat,available,5.98,58.98,low,low,10,namecheap,,,10/09/2026 15:54
 1be67be4-e786-4bf9-b0a6-89b615cff586,rile.chat,available,5.38,36.43,medium,low,4,spaceship,,,29/09/2026 14:40
+71d600ef-e52f-481a-bd6e-91308614f03c,vacancies.chat,available,5.57,37.55,medium,low,9,dynadot,,,02/10/2026 03:59
 527e9036-ad90-41f7-b6cb-9390e30d4270,maladroit.chat,available,5.98,58.98,medium,low,9,namecheap,,,24/08/2026 13:35
 37f4db7f-52de-493c-919d-d61a9f676c90,mev.chat,premium,78.54,78.54,high,low,3,namesilo,,,29/09/2026 10:55
 2b407a30-7832-4e0f-ba06-671586f3896e,partly.chat,available,5.98,58.98,medium,low,6,namecheap,,,15/09/2026 19:01
 1b1408c6-b4a7-40d4-8c70-9ff46aadec8b,admirable.chat,available,10.99,44.99,high,low,9,namesilo,,,21/09/2026 18:46
 c2493bf0-0bfd-4f34-9275-eeab59f4d447,stimulating.chat,available,35.2,35.2,high,low,11,cloudflare,,,28/09/2026 21:23
 6d101eff-f8f4-44f3-9969-1f3197cd8488,iranian.chat,premium,42.9,85.8,high,low,7,namecheap,,,22/08/2026 09:39
+0ecba397-11dc-414f-bad5-322839b56b2e,lobes.chat,available,5.38,36.43,medium,low,5,spaceship,,,01/10/2026 17:10
 bf4c9f93-2c84-42a1-926f-3f6265d42f47,respected.chat,available,10.99,44.99,high,low,9,namesilo,,,27/09/2026 12:38
 69ebca86-4098-4851-871c-95af32731893,producing.chat,available,10.99,44.99,medium,low,9,namesilo,,,25/09/2026 13:08
 46d748f3-06f7-4fe6-bf16-9cec171b3815,heilong.chat,available,5.98,58.98,medium,low,7,namecheap,,,19/09/2026 00:15
 240e1a61-8814-4775-bfcf-97f3fc22df59,polyhedral.chat,available,5.98,58.98,medium,low,10,namecheap,,,08/09/2026 23:24
 06a5472f-d28b-40ca-895c-294a58b07be5,imuran.chat,available,10.99,44.99,medium,low,6,namesilo,,,21/09/2026 11:01
-713ee3be-8738-441b-89bc-49e883bffd29,cadillac.chat,available,9.99,,high,low,8,name.com,,,
+713ee3be-8738-441b-89bc-49e883bffd29,cadillac.chat,available,5.38,36.43,high,low,8,spaceship,,,02/10/2026 00:40
 7bf3f62b-5803-41ac-bc7a-436513f43fb6,illustration.chat,available,5.38,36.43,high,low,12,spaceship,,,30/09/2026 14:22
 0e32de0c-c549-4eca-8317-b60e17937b7b,gammy.chat,available,5.98,58.98,medium,low,5,namecheap,,,18/08/2026 20:04
 87e97608-7fb0-4453-bfbc-22aeaa9e9ef9,storms.chat,available,10.99,44.99,medium,low,6,namesilo,,,17/09/2026 15:55
 99b15d1b-ecb7-4401-a5ea-49b98effee09,hastings.chat,premium,38.94,38.94,high,low,8,namesilo,,,22/09/2026 15:09
 5107f9e1-a621-4add-937d-ee320c7e9ad0,triumphal.chat,available,5.98,58.98,high,low,9,namecheap,,,17/08/2026 19:54
 78ddf861-db85-4310-a11c-bd8ebc925591,descriptive.chat,available,5.57,37.55,high,low,11,dynadot,,,30/09/2026 11:37
+e4c23161-a7c3-4398-86c7-581352e81ed6,ad.chat,resell,,,high,medium,3,,,,02/10/2026 01:52
 fe4c239a-6dbd-47f4-94bc-1df614fc187f,meg.chat,premium,42.9,85.8,high,low,3,namecheap,,,24/08/2026 23:20
 b35f528c-f91e-42d4-aec4-05aa3a65ee6c,deluge.chat,available,10.99,44.99,medium,low,6,namesilo,,,24/09/2026 16:03
 d2a67989-ad0f-40d8-8c90-e96e24d849bf,nwa.chat,premium,33.5,,high,low,3,unstoppable,,,30/09/2026 04:42
@@ -106,16 +116,21 @@ ffda6fb3-c917-4788-a26f-0551c9a2794a,appearing.chat,available,5.98,58.98,high,lo
 d4655e8c-0167-4a0b-ae98-fd5915d4e211,rarified.chat,available,5.98,58.98,medium,low,8,namecheap,,,17/08/2026 15:46
 e600738d-eb72-4c28-881f-19ef7d9006a9,creaseless.chat,available,5.98,58.98,medium,low,10,namecheap,,,13/08/2026 05:47
 15c38e0d-c8f3-4fb4-b669-0f3a56d49b91,gravity.chat,resell,,,high,medium,7,,,,27/09/2026 13:53
+563111f3-3d6e-45d7-b1ea-30c2ecb6c47a,rationing.chat,available,5.66,36.56,medium,low,9,porkbun,,,01/10/2026 21:27
 2a0aba8b-ecd3-4ebf-a34b-4b3da691c2da,chester.chat,available,10.5,,high,low,7,unstoppable,,,28/09/2026 01:40
 8649e67c-98e8-4654-bbd7-3e36b743707f,cosmetic.chat,resell,9.99,50.99,high,low,8,"Spaceship, Inc.",27/04/2026 23:35,27/04/2027 23:35,26/09/2026 05:16
 0839d3d0-2068-4cbb-967c-2860e15f990a,doings.chat,available,10.99,44.99,medium,low,6,namesilo,,,23/09/2026 03:17
 6d43349d-ff99-4544-84f0-f560190108a0,vantage.chat,resell,,,high,medium,7,Dynadot Inc,04/02/2026 17:00,04/02/2027 17:00,26/09/2026 09:56
 5ae8779a-d29c-4877-996d-e654bf43ddc5,equilibria.chat,available,5.38,36.43,medium,low,10,spaceship,,,30/09/2026 16:06
-25be12f9-c217-45e7-ae33-b28b35d2370f,appreciative.chat,available,9.99,,high,low,12,name.com,,,
+25be12f9-c217-45e7-ae33-b28b35d2370f,appreciative.chat,available,10.5,,high,low,12,unstoppable,,,01/10/2026 21:37
 dddc5b9c-2a9f-4c95-bcc5-895de6b6ee66,oft.chat,premium,42.9,85.8,high,low,3,namecheap,,,14/09/2026 20:06
+8d3a174f-86e3-4b7c-abd1-fbf057d12aa6,passageway.chat,available,10.99,44.99,high,low,10,namesilo,,,01/10/2026 21:13
 d9b58b64-7231-474f-87ba-166d15e6ce43,firmly.chat,available,10.99,44.99,high,low,6,namesilo,,,19/09/2026 17:07
+c7a7715e-3998-4639-b3df-ffea1ca5b1d6,bna.chat,premium,38.94,38.94,medium,low,3,namesilo,,,01/10/2026 07:03
 f4e99e4a-5469-433c-9a29-cbe8c0c5291d,luteal.chat,available,5.98,58.98,medium,low,6,namecheap,,,24/08/2026 12:07
 f3268fc6-fa0e-456f-ad78-47996f451151,cpm.chat,premium,38.94,38.94,high,low,3,namesilo,,,01/10/2026 05:17
+5f62b8f9-4fe5-4226-9af1-aa1a5ca04936,lugano.chat,available,5.66,36.56,medium,low,6,porkbun,,,02/10/2026 00:46
+5f1ff097-6b27-4af9-9e40-712a2f71fcf5,absalom.chat,available,10.99,44.99,medium,low,7,namesilo,,,01/10/2026 23:58
 b0676087-9813-4a5a-a367-182bff72581c,dixon.chat,available,10.99,44.99,medium,low,5,namesilo,,,25/09/2026 17:44
 772f1324-79e9-45f1-a310-6503490f5edc,autopsy.chat,available,10.99,44.99,high,low,7,namesilo,,,21/09/2026 07:38
 cd02e29a-4b89-4a2c-a2bf-1fd551186a18,net.chat,resell,,,high,medium,3,"NameCheap, Inc.",26/02/2026 15:15,26/02/2027 15:15,26/09/2026 07:45
@@ -123,13 +138,13 @@ cd02e29a-4b89-4a2c-a2bf-1fd551186a18,net.chat,resell,,,high,medium,3,"NameCheap,
 f7fb5997-ce70-4c29-93e4-2fa080a15435,sniff.chat,available,10.5,,high,low,5,unstoppable,,,30/09/2026 11:21
 51e729e6-7b32-40b9-af58-daf3be9f68eb,reduce.chat,available,10.99,44.99,high,low,6,namesilo,,,24/09/2026 08:28
 f68ce5fd-feab-4ed7-9218-058cc965edf9,backside.chat,available,5.98,58.98,medium,low,8,namecheap,,,09/08/2026 10:44
-cb23c86b-e3cf-401c-9fb5-92debd8b7cea,designers.chat,premium,78.54,78.54,high,low,9,namesilo,,,29/09/2026 12:09
+cb23c86b-e3cf-401c-9fb5-92debd8b7cea,designers.chat,premium,72.6,72.6,high,low,9,dynadot,,,01/10/2026 18:23
 a721709c-596f-453c-8d5f-5d230305fa2b,thea.chat,resell,,,high,low,4,,,,30/09/2026 11:10
 8876ba9d-ab73-4c60-afcc-f51a6515989d,ruthful.chat,available,5.98,58.98,medium,low,7,namecheap,,,12/08/2026 23:40
 5056b461-3f9d-4210-acd0-2246a575de98,lowered.chat,available,10.99,44.99,medium,low,7,namesilo,,,25/09/2026 15:26
 7647f99f-f588-48f3-9b2f-64e0d3873847,greedy.chat,available,5.98,58.98,high,low,6,namecheap,,,07/08/2026 22:09
 4a7f7bc8-5ac1-46f8-b46f-f6cb631cf5a3,coney.chat,available,5.98,58.98,medium,low,5,namecheap,,,30/09/2026 09:15
-5a85c145-62c8-4d70-9390-075f41267adc,opera.chat,resell,,,high,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",09/05/2024 01:19,09/05/2027 01:19,28/09/2026 10:47
+5a85c145-62c8-4d70-9390-075f41267adc,opera.chat,resell,,,high,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",09/05/2024 01:19,09/05/2027 01:19,01/10/2026 18:48
 7d8d77b7-44ba-48f5-86df-b02405e167fb,interact.chat,resell,,,high,low,8,"Sav.com, LLC",29/12/2025 17:00,29/12/2026 17:00,30/09/2026 20:24
 a577b8db-cd32-4129-a398-041940bb6b84,kaunas.chat,available,10.5,,medium,low,6,unstoppable,,,01/10/2026 02:48
 7b8a8041-6c18-4ab9-9621-7247f0655d91,tasmanian.chat,available,5.98,58.98,high,low,9,namecheap,,,11/09/2026 08:50
@@ -207,6 +222,7 @@ ec27beaf-70e4-47d6-90ef-48662a0b4c8b,mooch.chat,available,5.98,58.98,medium,low,
 49385bf8-bb61-4c41-9f61-e360faf68f80,ardor.chat,available,10.99,44.99,medium,low,5,namesilo,,,20/09/2026 03:15
 c01b5cb2-fbe2-4282-bc4d-8ab2dc25a7c2,ailing.chat,available,5.98,58.98,high,low,6,namecheap,,,
 dccbd2da-0a1c-4a13-b16f-6d26a57e5a73,bernadette.chat,available,10.99,44.99,medium,low,10,namesilo,,,30/09/2026 05:01
+fe229222-12cc-43b7-a3ba-43261b7e77f3,jamming.chat,available,10.5,,high,low,7,unstoppable,,,01/10/2026 19:23
 d08fccb9-318b-43db-bcdf-777556f29823,unlighted.chat,available,5.98,58.98,medium,low,9,namecheap,,,12/09/2026 13:01
 2e762aa0-1b7d-4dde-8166-86f7484ab889,highness.chat,available,5.38,36.43,high,low,8,spaceship,,,28/09/2026 14:27
 aa0b66f5-d0f3-4d9d-9591-c33269539cef,narrowly.chat,available,5.98,58.98,medium,low,8,namecheap,,,15/09/2026 16:08
@@ -215,7 +231,7 @@ aa0b66f5-d0f3-4d9d-9591-c33269539cef,narrowly.chat,available,5.98,58.98,medium,l
 f2b3e827-06ea-408b-b3cb-1238a167573b,sculpt.chat,available,5.98,58.98,high,low,6,namecheap,,,20/08/2026 18:43
 2c3aa7e5-e334-4668-8675-ded229770b1b,hoping.chat,available,10.99,44.99,high,low,6,namesilo,,,25/09/2026 11:50
 9ba143d7-03c4-495b-aaef-bf75d1bda813,waker.chat,available,10.99,44.99,medium,low,5,namesilo,,,20/09/2026 08:31
-3c95ba7e-8584-4daa-b58e-4308fdc4601f,exploration.chat,available,10.99,44.99,high,low,11,namesilo,,,28/09/2026 02:39
+3c95ba7e-8584-4daa-b58e-4308fdc4601f,exploration.chat,available,5.38,36.43,high,low,11,spaceship,,,02/10/2026 05:31
 e5ce7132-5671-4cf3-bb0e-b98c17a66057,appraisal.chat,available,5.98,58.98,high,low,9,namecheap,,,19/09/2026 22:07
 bd052d06-f555-4dd3-ab80-c409d302fe84,outdoor.chat,premium,34.36,68.51,high,low,7,spaceship,,,01/10/2026 02:25
 fecf548e-1ad5-4bd6-b231-0ea6f56ce1de,guangxi.chat,available,35.2,35.2,medium,low,7,cloudflare,,,30/09/2026 21:15
@@ -247,6 +263,7 @@ ace67a8b-5e3a-4b30-b024-265734583207,empiric.chat,available,5.98,58.98,medium,lo
 d36c874f-3ff5-4873-8efc-54c16c02b5f5,baltimore.chat,available,5.98,58.98,high,low,9,namecheap,,,22/09/2026 00:19
 ffac304c-8caa-4fe8-b3b7-db63814a15c9,rapacity.chat,available,10.99,44.99,medium,low,8,namesilo,,,21/09/2026 08:45
 862980f5-5612-47f6-9eb9-656b3e68ea3d,strengths.chat,available,10.99,44.99,medium,low,9,namesilo,,,18/09/2026 22:25
+3e14d75b-4895-495a-b809-228eddbf4047,precipitation.chat,available,10.99,44.99,medium,low,13,namesilo,,,02/10/2026 01:22
 9a2a8203-e592-4fea-a8de-3611d60bb7f3,decomposition.chat,available,5.38,36.43,medium,low,13,spaceship,,,30/09/2026 22:50
 2e26fce1-43ca-49f3-a5bc-c4447c94dcc0,bellowing.chat,available,10.99,44.99,high,low,9,namesilo,,,23/09/2026 06:18
 2ce9ab87-2719-4cc3-8d6a-40e9b2e09496,xlii.chat,available,5.98,58.98,medium,low,4,namecheap,,,
@@ -265,7 +282,7 @@ b2b6c787-b777-4119-bf1f-b57d140bec61,razorback.chat,available,5.98,58.98,medium,
 42c2b89b-80c1-409b-83d8-c718f89fe3ba,panel.chat,resell,,,high,low,5,"Sav.com, LLC - 24",31/05/2026 15:15,31/05/2027 15:15,26/09/2026 08:01
 62bb24aa-9af6-470a-815b-cf4de7bd2940,fishtail.chat,available,9.99,,medium,low,9,name.com,,,
 87f7cda9-0f51-4ab0-9951-958e8ccee8ac,bawbee.chat,available,10.99,44.99,medium,low,6,namesilo,,,22/09/2026 16:46
-89388f58-f605-42da-a6c8-e7280b14e572,youngest.chat,available,9.99,,high,low,8,name.com,,,
+89388f58-f605-42da-a6c8-e7280b14e572,youngest.chat,available,5.66,36.56,high,low,8,porkbun,,,01/10/2026 19:56
 b23e4272-0d10-4f51-834b-d6547bc643fe,hogarth.chat,available,10.99,44.99,high,low,7,namesilo,,,29/09/2026 13:03
 a78b5b76-a991-4da9-ad59-cfefc69400d2,droopy.chat,available,5.98,58.98,medium,low,6,namecheap,,,14/08/2026 19:43
 d8cbf521-614f-4e57-aa92-783df88af659,struggling.chat,available,5.98,58.98,medium,low,10,namecheap,,,10/09/2026 22:52
@@ -281,6 +298,8 @@ b11a1a4c-9ec4-4248-bfa4-31eaaaf62219,sticking.chat,available,10.99,44.99,high,lo
 c6df0cd8-5059-4417-afad-fdde5ab6f808,vedanta.chat,available,5.38,36.43,high,low,7,spaceship,,,01/10/2026 04:06
 4073c1a9-305e-433d-b2e2-4c95a0763c0f,openings.chat,available,5.98,58.98,medium,low,8,namecheap,,,20/09/2026 17:50
 e96db1e8-5669-4e2f-b77b-a28504593090,fluorescence.chat,available,10.99,44.99,medium,low,12,namesilo,,,27/09/2026 23:02
+7be68b29-966d-4a72-9927-4e2b628c6e2c,bahr.chat,available,35.2,35.2,medium,low,4,cloudflare,,,01/10/2026 16:27
+72b8b060-9d5b-4695-b8ce-2c41239111c2,insistence.chat,available,5.38,36.43,high,low,10,spaceship,,,01/10/2026 20:02
 e6125f57-060c-40b6-9f69-b5efcdf6b307,fear.chat,available,10.99,44.99,high,low,4,namesilo,,,24/09/2026 12:06
 e0b97975-3489-4c7d-b1a9-e5185ede461f,gainesville.chat,available,10.99,44.99,medium,low,11,namesilo,,,27/09/2026 07:47
 f8c581a7-53c4-4f20-8d76-6fd3a5db799c,hairbrush.chat,available,9.99,,high,low,10,name.com,,,
@@ -313,6 +332,7 @@ e74f421e-3869-432a-a09f-0f33d2edacb5,hellenic.chat,available,5.98,58.98,high,low
 af364376-21ff-475d-b80a-b314d0bcc044,idly.chat,available,5.98,58.98,medium,low,4,namecheap,,,15/09/2026 01:38
 6f19f10c-f582-401b-a0af-bbaca804ac4b,carousing.chat,available,5.98,58.98,medium,low,9,namecheap,,,08/08/2026 04:24
 1158f54a-22d2-4d53-abc8-87104ede88bc,sorbed.chat,available,5.98,58.98,medium,low,6,namecheap,,,10/09/2026 14:27
+843d68a8-f806-4f0d-aca6-2322647e8f5f,innings.chat,available,10.99,44.99,high,low,7,namesilo,,,02/10/2026 05:24
 232c105b-5354-4301-b23c-2ef6025bea25,steakhouse.chat,available,10.99,44.99,high,low,10,namesilo,,,24/09/2026 14:46
 399aee15-76a4-4647-aba4-8e13b12bc826,succinct.chat,available,10.99,44.99,high,low,8,namesilo,,,23/09/2026 17:07
 78ab9a90-e763-480d-a8f4-7b951f34e658,tamar.chat,available,5.98,58.98,medium,low,5,namecheap,,,29/09/2026 15:34
@@ -322,6 +342,7 @@ c22612ae-1e63-4c1e-a8c0-6d07f0128643,grudging.chat,available,5.98,58.98,medium,l
 f686f488-80d8-46fe-9dbe-e0365274f43c,astrogator.chat,available,10.99,44.99,medium,low,10,namesilo,,,20/09/2026 17:41
 33866b24-f390-4399-b515-0e3bcb4fd94d,fingers.chat,available,9.99,,medium,low,7,name.com,,,
 be4d2228-3bd1-43f1-8239-1e0905b8612b,becloud.chat,available,5.98,58.98,medium,low,7,namecheap,,,03/09/2026 23:53
+e69e0044-a286-46c8-8569-ae8c9ca6cfcb,buzzard.chat,available,5.38,36.43,medium,low,7,spaceship,,,01/10/2026 18:52
 1022f91a-a6b5-4b41-a4e5-4186d2ebeef1,unafraid.chat,available,5.98,58.98,high,low,8,namecheap,,,10/09/2026 01:28
 a3a0da75-5e44-4e7a-90fa-6d03497edc4a,unfathomed.chat,available,5.98,58.98,medium,low,10,namecheap,,,12/09/2026 09:57
 c500c37f-d955-4ced-bfb0-c1d078398de9,crumbly.chat,available,5.98,58.98,medium,low,7,namecheap,,,13/08/2026 09:02
@@ -330,6 +351,7 @@ fe3d7ce0-06df-4c38-86b5-09e13b2d83e6,neither.chat,available,5.98,58.98,medium,lo
 d6cf68cb-4a7e-4e34-8c0b-3a9b12e8fc67,magnetism.chat,available,10.99,44.99,high,low,9,namesilo,,,30/09/2026 10:31
 748d741a-8a47-4f64-af7f-cb7b457c54d6,formal.chat,available,5.98,58.98,high,low,6,namecheap,,,24/09/2026 00:47
 a9b89212-6fcd-403c-87aa-8cf141f8d7d0,deary.chat,available,9.99,50.99,medium,low,5,name.com,,,13/08/2026 18:21
+86b4639c-652d-4d8e-bd07-06f0a2bf3439,stilwell.chat,available,5.38,36.43,medium,low,8,spaceship,,,01/10/2026 20:11
 3cf40334-5800-4efa-9ca4-ca3ebd49a2cd,dodgy.chat,available,5.98,58.98,medium,low,5,namecheap,,,12/08/2026 01:46
 6877f46c-8623-4e5d-bd5c-8dbf3e17e159,iffy.chat,available,5.98,58.98,medium,low,4,namecheap,,,18/08/2026 09:22
 d6f7b0cb-aacc-4c60-8d39-d6881c88f2f1,pacing.chat,available,5.38,36.43,high,low,6,spaceship,,,01/10/2026 03:12
@@ -393,7 +415,7 @@ c28a88b8-d3ac-462c-8610-9ee9c59f3442,eidetic.chat,available,5.98,58.98,medium,lo
 856b871c-395c-4e96-b7c5-330ef073b134,cognitive.chat,resell,,,high,low,9,"Xiamen ChinaSource Internet Service Co., Ltd",01/12/2021 17:00,01/12/2026 17:00,26/09/2026 05:06
 6b93bc7b-f4a4-4600-8737-55f5022ffd33,eruption.chat,available,10.99,44.99,medium,low,8,namesilo,,,24/09/2026 15:18
 2b8654ee-5970-4c53-a050-faac2e11b216,shielding.chat,available,5.57,37.55,medium,low,9,dynadot,,,30/09/2026 11:01
-f07a06b7-0231-43bd-b6e3-3e7838871f20,commercially.chat,available,9.99,,medium,low,12,name.com,,,
+f07a06b7-0231-43bd-b6e3-3e7838871f20,commercially.chat,available,5.66,36.56,medium,low,12,porkbun,,,01/10/2026 21:28
 7e2d14c1-6ed5-486c-aa4f-737233f450e6,ballooning.chat,available,10.99,44.99,high,low,10,namesilo,,,21/09/2026 23:14
 a1ac5706-7d00-487d-bcd4-5f4598368960,downside.chat,available,10.99,44.99,medium,low,8,namesilo,,,24/09/2026 23:40
 e595b70e-681f-410d-8e9c-9eb278363990,tycoon.chat,resell,,,high,low,6,"Sav.com, LLC - 1",30/03/2026 15:16,30/03/2027 15:16,26/09/2026 09:49
@@ -420,13 +442,15 @@ dc285886-b8f4-4314-841f-ee4177d691d7,lem.chat,premium,17.28,34.36,high,medium,3,
 d44cd0f7-7fdf-435d-84d7-78ff99e76167,fes.chat,premium,78.54,78.54,high,low,3,namesilo,,,30/09/2026 09:38
 febc37d1-4ccc-4486-8bfc-3f1a39e5df17,mauldin.chat,available,5.98,58.98,medium,low,7,namecheap,,,23/09/2026 16:01
 90f98ebf-8727-4021-9eb8-ad81ef017946,schuyler.chat,available,5.38,36.43,medium,low,8,spaceship,,,28/09/2026 04:05
+f62e86a0-a3f7-48a4-8529-934c93deff97,orozco.chat,available,10.5,,medium,low,6,unstoppable,,,02/10/2026 05:31
 2e310c14-2eac-4a28-b8c5-23d91d087beb,corelli.chat,available,10.99,44.99,medium,low,7,namesilo,,,20/09/2026 01:37
 d3fd9312-f1bd-493e-a5ae-4a5ddb73fb35,voted.chat,available,10.99,44.99,medium,low,5,namesilo,,,17/09/2026 16:50
 a19c398b-759f-4ebb-b07d-5558f119c3da,lacks.chat,available,5.57,37.55,low,low,5,dynadot,,,29/09/2026 10:48
 7f02dfbc-d6fb-4d61-86c4-935148cf0c1f,plumy.chat,available,5.98,58.98,medium,low,5,namecheap,,,18/08/2026 00:25
 23b8ee70-41a7-4cac-855f-0883701fa1ae,larboard.chat,available,5.98,58.98,medium,low,8,namecheap,,,22/08/2026 19:51
-a955807f-4b55-47ca-a453-4a6cad2b9947,convinced.chat,available,9.99,,high,low,9,name.com,,,
+a955807f-4b55-47ca-a453-4a6cad2b9947,convinced.chat,available,10.99,44.99,high,low,9,namesilo,,,01/10/2026 19:46
 73623194-ee02-4c09-ac90-46be1d615b9f,waltz.chat,available,5.66,36.56,high,low,5,porkbun,,,28/09/2026 15:32
+4f8d7caf-c035-4322-a5c9-765131a01946,serviced.chat,available,5.38,36.43,medium,low,8,spaceship,,,01/10/2026 15:44
 e024212e-91aa-4395-aa5a-f85f0dcbc712,saccharine.chat,available,5.98,58.98,medium,low,10,namecheap,,,12/08/2026 12:48
 1adda81a-4fe9-4e12-8d0d-c71513cc4a90,involving.chat,available,9.99,,high,low,9,name.com,,,
 c340ef7e-42b9-491d-b22b-5c3183f6fde6,profitably.chat,available,5.98,58.98,medium,low,10,namecheap,,,14/09/2026 20:29
@@ -447,7 +471,7 @@ afd57bf2-c0f2-4771-b5de-f643feed538c,truculent.chat,available,5.98,58.98,medium,
 978827ba-04f4-4bd7-b79c-6e1e3d4cdd02,aorta.chat,available,10.99,44.99,medium,low,5,namesilo,,,19/09/2026 16:04
 1a028336-c32b-4e12-bfcb-bef9360851c2,quizzes.chat,available,10.99,44.99,medium,low,7,namesilo,,,18/09/2026 17:07
 1a489a96-62e3-40cb-84d3-9465ae518e78,flowerbed.chat,available,10.99,44.99,high,low,9,namesilo,,,22/09/2026 22:58
-f113a2ca-83cf-4c4f-b3eb-e230178ee5cf,googler.chat,available,9.99,,high,low,7,name.com,,,
+f113a2ca-83cf-4c4f-b3eb-e230178ee5cf,googler.chat,available,5.38,36.43,high,low,7,spaceship,,,01/10/2026 22:14
 a53ddd62-8d52-462d-9604-b11a3d9b7926,jural.chat,available,5.98,58.98,medium,low,5,namecheap,,,22/08/2026 14:34
 970d47b0-e510-443c-8be3-84c66eb4b2ce,dissolving.chat,available,10.99,44.99,high,low,10,namesilo,,,24/09/2026 23:08
 1bb51e2c-243a-4a34-b13b-d9e9920cc1cb,marmoreal.chat,available,5.98,58.98,medium,low,9,namecheap,,,24/08/2026 16:12
@@ -478,6 +502,7 @@ edeb3298-1f5e-4e1a-8e99-7e5d2723d565,cacophonic.chat,available,5.98,58.98,low,lo
 e647e8ce-80d0-46d0-8ce4-46d2075424ef,degage.chat,available,5.98,58.98,medium,low,6,namecheap,,,13/08/2026 23:57
 7e58e197-558a-4da2-9960-9885feade7bd,expound.chat,available,5.98,58.98,medium,low,7,namecheap,,,16/08/2026 00:37
 6387c5a4-2daa-4c8e-8eb2-e5bdecbd1fc4,searches.chat,available,5.98,58.98,medium,low,8,namecheap,,,20/09/2026 07:30
+ed2c315f-fda8-42af-9b9d-e250c5eec82b,ramayana.chat,available,35.2,35.2,medium,low,8,cloudflare,,,01/10/2026 21:26
 b534f4ba-6785-4cd0-9f43-a7799fa5e3c9,motorcar.chat,available,10.99,44.99,high,low,8,namesilo,,,21/09/2026 05:29
 9c02512c-e2ea-4a34-86ee-e18214d654af,drained.chat,available,5.98,58.98,medium,low,7,namecheap,,,14/08/2026 18:17
 1ace1150-fdf1-4712-906e-5077e90289c4,lovely.chat,resell,,,high,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/01/2020 21:19,27/01/2027 21:19,26/09/2026 07:19
@@ -521,7 +546,7 @@ b9035d3a-ee41-458e-b4d7-fabb0d209f8e,atriplex.chat,available,10.99,44.99,medium,
 13d67c09-bc54-4ffc-b7d8-83966531f85c,infantile.chat,available,5.98,58.98,medium,low,9,namecheap,,,12/08/2026 05:04
 b09cd43f-5d2f-4b5e-a25c-f51826a9aaec,inheritance.chat,available,10.99,44.99,high,low,11,namesilo,,,28/09/2026 12:28
 bea44407-ee83-4bb5-afa4-f0890c44b2bf,slugger.chat,available,9.99,50.99,high,low,7,name.com,,,22/09/2026 14:18
-5d31066d-cb69-489f-8815-11012efe70b8,engineering.chat,premium,108.9,108.9,high,low,11,dynadot,,,30/09/2026 01:32
+5d31066d-cb69-489f-8815-11012efe70b8,engineering.chat,premium,64.35,128.7,high,low,11,namecheap,,,02/10/2026 00:14
 d93a825d-2a79-4abf-9fca-93c13c031773,geniculate.chat,available,5.98,58.98,medium,low,10,namecheap,,,18/08/2026 21:38
 7ca55e6b-9977-42c7-be9c-6d9b943061b9,moresque.chat,available,5.98,58.98,medium,low,8,namecheap,,,25/08/2026 06:01
 9aa921b4-e170-43d8-8ec0-5e3eb1c7ecad,bavarian.chat,available,5.98,58.98,medium,low,8,namecheap,,,09/08/2026 02:00
@@ -538,6 +563,7 @@ d4eeb829-5690-4dbf-b997-c58c62a64a33,dyck.chat,available,35.2,35.2,medium,low,4,
 33e18017-749c-4b7d-9a3d-d2d9b3e53eae,england.chat,premium,34.36,68.51,high,low,7,spaceship,,,29/09/2026 18:14
 38160d65-5c50-46ca-8cdf-2b9fd6b1f8bf,sanious.chat,available,5.98,58.98,medium,low,7,namecheap,,,21/08/2026 17:49
 cc508945-b4d3-4960-8e4f-86de041581ff,ambulant.chat,available,5.98,58.98,medium,low,8,namecheap,,,
+6e320674-faeb-47d2-842c-d59adf9e2b82,upkeep.chat,available,10.99,44.99,high,low,6,namesilo,,,02/10/2026 05:41
 1970306a-394f-42bc-8054-82f3832ddb96,smells.chat,available,5.38,36.43,low,low,6,spaceship,,,28/09/2026 08:33
 3c378e70-dee4-4119-92b7-f4854cd78573,patronage.chat,available,5.98,58.98,high,low,9,namecheap,,,21/09/2026 15:39
 98e3300e-c72d-434f-b289-a8f6b07743cf,monticello.chat,available,5.98,58.98,medium,low,10,namecheap,,,28/09/2026 12:25
@@ -547,7 +573,9 @@ cf91453b-069e-4ddf-8ca6-5ad24a69bfeb,aright.chat,available,5.98,58.98,high,low,6
 cde1eba4-195b-41ab-b06c-55f94f85ba47,belittling.chat,available,5.98,58.98,medium,low,10,namecheap,,,09/08/2026 13:10
 e626aea4-ed70-47a6-ae9a-0411644203d9,lienal.chat,available,5.98,58.98,low,low,6,namecheap,,,23/08/2026 01:33
 71d75665-d7f5-4d97-b4c2-4bdfdd0297da,nights.chat,available,10.99,44.99,high,low,6,namesilo,,,17/09/2026 22:10
+189474da-d20b-4edb-80ab-b0f11b430b71,montmorency.chat,available,35.2,35.2,medium,low,11,cloudflare,,,02/10/2026 01:08
 ecb165f9-daf9-4747-8969-bde180c0efd2,spiteful.chat,available,5.98,58.98,medium,low,8,namecheap,,,14/08/2026 04:20
+355750dd-36d8-4356-be36-7f2aaf9a7462,predefined.chat,available,10.5,,medium,low,10,unstoppable,,,01/10/2026 16:01
 24988daf-d3a2-438c-96c2-2277084a97c7,jena.chat,resell,,,medium,low,4,Porkbun LLC,16/12/2025 01:01,16/12/2026 01:01,26/09/2026 06:59
 b84c992b-d17d-4504-9970-41e55ddb58d0,tomb.chat,available,5.38,36.43,medium,low,4,spaceship,,,27/09/2026 16:05
 0aa46e1e-1872-40e2-90cb-3249210534a7,manufacturing.chat,resell,,,high,low,13,"Sav.com, LLC - 26",04/02/2026 15:16,04/02/2027 15:16,01/10/2026 02:43
@@ -568,6 +596,7 @@ d628f3e3-ec94-4016-8b73-f9eec33023bd,revocable.chat,available,5.98,58.98,medium,
 4dbca190-6f4d-417c-85f4-6794f502e94f,findings.chat,available,5.38,36.43,medium,low,8,spaceship,,,28/09/2026 19:12
 02a46703-fae6-4d5a-a5e0-e4e3526cae5e,untaped.chat,available,5.98,58.98,medium,low,7,namecheap,,,12/09/2026 10:16
 00553a92-b735-4a29-b374-702fb8b9d6ab,uncle.chat,available,10.5,,high,low,5,unstoppable,,,30/09/2026 14:13
+cc398533-d5ee-40be-be7f-0b7e24706ef4,carmel.chat,available,35.2,35.2,high,low,6,cloudflare,,,01/10/2026 08:48
 c79c34fe-19a2-4137-bac4-f61a68ad5e51,stated.chat,available,5.98,58.98,high,low,6,namecheap,,,10/09/2026 19:08
 52601769-908c-4017-8b75-4e17a2d01330,lightwood.chat,available,5.98,58.98,medium,low,9,namecheap,,,16/09/2026 20:15
 a5eaf44c-0f8a-496f-8d08-1b2fd3ba32c5,volunteers.chat,available,5.98,58.98,high,low,10,namecheap,,,18/09/2026 01:21
@@ -590,6 +619,7 @@ e0f85685-6e84-4781-a89d-e68ee16911b6,craggy.chat,available,5.98,58.98,medium,low
 c2125594-eb4a-4f9c-a556-7ae84a6903a7,convent.chat,available,5.66,36.56,medium,low,7,porkbun,,,29/09/2026 11:58
 c3b92888-97e8-48e2-9e4f-dc041d215cea,zoology.chat,available,10.5,,high,low,7,unstoppable,,,01/10/2026 02:02
 fc1967e1-f06c-43af-bbc4-6a33efa8407b,ossiculate.chat,available,5.98,58.98,medium,low,10,namecheap,,,04/09/2026 18:24
+edc19d55-3b46-4b97-9f72-bb47302eebb4,lun.chat,premium,66.5,,medium,low,3,unstoppable,,,01/10/2026 23:06
 47f06e7b-0bd3-4a2d-9df5-7b49459ef379,amnesty.chat,available,10.99,44.99,high,low,7,namesilo,,,18/09/2026 22:23
 d1ecb203-863f-4594-8890-97af5e46df26,unmediated.chat,available,5.98,58.98,medium,low,10,namecheap,,,12/09/2026 15:32
 a614c2ac-011d-4848-99e8-0f29749ef964,cantabile.chat,available,5.98,58.98,medium,low,9,namecheap,,,11/08/2026 17:38
@@ -598,6 +628,7 @@ ecb606c7-879c-464f-9c53-87f9daffd8e5,uncharted.chat,available,5.98,58.98,medium,
 b528f8fc-de97-4e7b-9ae0-a09868b020c4,ternion.chat,available,5.98,58.98,medium,low,7,namecheap,,,
 e744bcd7-ab71-4f83-b681-740e2d38cc02,mesmerised.chat,available,5.98,58.98,medium,low,10,namecheap,,,17/08/2026 22:52
 a5b0580f-0d59-41a8-8485-0009e92b0132,mesic.chat,available,5.98,58.98,medium,low,5,namecheap,,,24/08/2026 21:11
+53b03b7b-7af5-49e0-b72f-12a24b01b526,sewall.chat,available,5.57,37.55,medium,low,6,dynadot,,,01/10/2026 11:58
 8cc80e5d-6d1f-4400-ac20-d8ee3de4cdf6,statistic.chat,available,10.99,44.99,high,low,9,namesilo,,,30/09/2026 11:05
 ca2d9ec5-9641-4200-a8f9-35b3cb8abba3,drugstore.chat,available,10.99,44.99,high,low,9,namesilo,,,19/09/2026 19:43
 277b3174-0bcd-4997-9d21-957e3cd06630,igg.chat,premium,33.5,,high,low,3,unstoppable,,,30/09/2026 01:57
@@ -623,6 +654,7 @@ b0dee375-7e28-4f8b-94a2-c89b7677cff8,lackluster.chat,available,5.98,58.98,medium
 94a8117c-9f35-4036-adde-b06cbc467f47,mothy.chat,available,5.98,58.98,low,low,5,namecheap,,,25/08/2026 07:14
 43a99cdb-4866-4c7b-b2c0-355cc548856b,stratified.chat,available,5.98,58.98,medium,low,10,namecheap,,,09/08/2026 06:36
 61d9b7e6-659f-4fd8-9842-42bae57df562,potentially.chat,available,10.5,,medium,low,11,unstoppable,,,28/09/2026 07:08
+4311842a-f5f6-40e6-af5e-cc032f02c9ea,compiled.chat,available,10.99,44.99,medium,low,8,namesilo,,,01/10/2026 16:08
 ba53c5b8-51ad-461f-88ae-be198d759fb4,primates.chat,available,5.66,36.56,high,low,8,porkbun,,,30/09/2026 02:24
 169f3f78-1052-42e7-b437-ddab108efc91,welshman.chat,available,5.98,58.98,medium,low,8,namecheap,,,13/09/2026 10:44
 5e2d32e8-8bc8-4c1b-aafa-a1d9ba28df05,slimed.chat,available,5.98,58.98,low,low,6,namecheap,,,10/09/2026 10:57
@@ -635,9 +667,9 @@ dc2b984b-1764-4f9d-bd76-0ffee0fe9156,legally.chat,available,9.99,50.99,medium,lo
 885bbb16-1fc0-4379-870b-303c6a4b0afa,fabulous.chat,premium,64.35,128.7,high,low,8,namecheap,,,17/08/2026 20:07
 cb567f6c-dd96-4331-bdd3-d70d44b2af3e,printable.chat,available,10.99,44.99,high,low,9,namesilo,,,27/09/2026 05:59
 64f5e39c-e9fe-491e-bd3f-a8bdedb95649,eustace.chat,available,10.99,44.99,medium,low,7,namesilo,,,29/09/2026 15:27
-a2dba5ec-ccd8-4c40-b644-4049b714cd4d,coordination.chat,available,5.38,36.43,high,low,12,spaceship,,,29/09/2026 23:16
+a2dba5ec-ccd8-4c40-b644-4049b714cd4d,coordination.chat,available,5.38,36.43,high,low,12,spaceship,,,01/10/2026 16:03
 4c8d3e95-68ee-45e6-ba1f-a4928b9cbde9,deciphered.chat,available,5.98,58.98,high,low,10,namecheap,,,13/08/2026 21:34
-8098fad5-ade1-4ea2-9b64-2c297c20a21d,television.chat,resell,,,high,low,10,"Xiamen ChinaSource Internet Service Co., Ltd",27/09/2024 17:00,27/09/2027 17:00,28/09/2026 15:29
+8098fad5-ade1-4ea2-9b64-2c297c20a21d,television.chat,resell,,,high,low,10,"Xiamen ChinaSource Internet Service Co., Ltd",27/09/2024 17:00,27/09/2027 17:00,01/10/2026 08:09
 56b27396-f2f4-4c0a-acdf-c6b5428fad54,coniferous.chat,available,5.98,58.98,high,low,10,namecheap,,,12/08/2026 20:37
 3c7467ab-6363-486f-840c-992ea3b8de47,overriding.chat,available,5.98,58.98,high,low,10,namecheap,,,04/09/2026 21:39
 25f7c93b-e45d-45a0-ab09-feaded96ccba,riotous.chat,available,9.99,50.99,medium,low,7,name.com,,,13/08/2026 20:26
@@ -650,6 +682,7 @@ a2dba5ec-ccd8-4c40-b644-4049b714cd4d,coordination.chat,available,5.38,36.43,high
 4a2a986e-27d9-41ff-a0b8-5f37effb7b78,torture.chat,available,5.98,58.98,medium,low,7,namecheap,,,11/09/2026 18:03
 eae2b635-9197-493e-9ea1-e2e3a169deff,untagged.chat,available,5.98,58.98,medium,low,8,namecheap,,,12/09/2026 14:35
 f9ff23be-8422-4806-8c2f-43c10b7d974c,enclosure.chat,available,10.99,44.99,high,low,9,namesilo,,,30/09/2026 09:32
+0a3c0c00-e1ca-40f0-8c68-a9e42553cd7c,nbl.chat,premium,36.3,37.55,high,low,3,dynadot,,,01/10/2026 23:39
 b042d738-31ea-4ed0-89d7-d84fed1f2ad4,amniota.chat,available,5.98,58.98,medium,low,7,namecheap,,,18/09/2026 22:27
 799ea8b5-8de4-41ad-9415-9286a47f1247,disjoint.chat,available,5.98,58.98,medium,low,8,namecheap,,,14/08/2026 11:09
 03cfc6f0-58aa-4bf2-a582-91af76730e3e,prowlers.chat,available,5.98,58.98,low,low,8,namecheap,,,20/09/2026 12:42
@@ -674,13 +707,16 @@ bb62a497-415c-4e30-969f-250cc222776a,steadying.chat,available,5.98,58.98,high,lo
 8cc19774-d674-48a7-9327-ea1072f0ffce,offsides.chat,available,5.98,58.98,medium,low,8,namecheap,,,04/09/2026 01:40
 15f2a476-f92d-4027-92d9-6f5b708a5e6e,scag.chat,available,5.98,58.98,medium,low,4,namecheap,,,23/09/2026 14:40
 9cc23f08-d80e-40e2-92f5-3674b9d5a081,gangly.chat,available,5.98,58.98,medium,low,6,namecheap,,,18/08/2026 20:09
+ef509f4c-f093-418d-bf9a-c44a83b0aa0f,households.chat,available,35.2,35.2,medium,low,10,cloudflare,,,02/10/2026 03:00
 303a6dfd-edf7-49f7-a828-98d4ef953b1c,avionic.chat,available,5.98,58.98,medium,low,7,namecheap,,,07/08/2026 23:35
 a23295e7-f635-4ca6-9299-f0d1e5736c0d,gaffer.chat,available,,,medium,low,6,,,,
+b32b8a6d-2961-4017-803e-3b8f7661e7e7,interns.chat,available,35.2,35.2,medium,low,7,cloudflare,,,02/10/2026 03:28
 564250fd-10a6-4751-8c43-7c47068ae4d1,hospitals.chat,premium,78.54,78.54,high,low,9,namesilo,,,20/09/2026 04:37
 995bb14d-985d-4135-9a52-49bb8ded2693,asparagus.chat,available,10.99,44.99,high,low,9,namesilo,,,20/09/2026 14:40
 3ead10d0-0808-4c83-b390-7c8ff04b004b,bewilder.chat,available,10.99,44.99,high,low,8,namesilo,,,21/09/2026 17:30
 6d28c08e-76cb-4df3-a67f-7ba4c10705e5,descended.chat,available,35.2,35.2,medium,low,9,cloudflare,,,29/09/2026 10:16
 8f665d3c-44a8-4feb-9f23-a809944dc2d8,trigon.chat,available,5.98,58.98,high,low,6,namecheap,,,11/09/2026 19:46
+2373294d-7996-40f9-9c16-35cdabe682d5,gustafson.chat,available,5.66,36.56,medium,low,9,porkbun,,,02/10/2026 00:54
 c3e051cb-90c6-4bc9-819b-b9d1df35856a,araroba.chat,available,10.99,44.99,medium,low,7,namesilo,,,20/09/2026 00:14
 fafb7e5d-f01a-42a6-8802-e0cbbe2dbd63,crepuscle.chat,available,5.98,58.98,medium,low,9,namecheap,,,11/09/2026 21:50
 e0489f07-14eb-4a7b-97e8-c8384e932e74,stuart.chat,available,10.99,44.99,high,low,6,namesilo,,,25/09/2026 22:59
@@ -737,6 +773,7 @@ d2625b02-c99e-4408-9040-93a385127e8f,cabell.chat,available,5.38,36.43,medium,low
 0876f897-064f-4645-8340-231e556ed665,damask.chat,available,9.99,50.99,medium,low,6,name.com,,,13/08/2026 16:09
 da50328d-ccba-4496-befc-5eb4bec47ee1,excitement.chat,available,5.98,58.98,high,low,10,namecheap,,,25/09/2026 05:50
 b44fa593-6cb3-4aed-b9ed-5b120c3af4dd,choler.chat,available,10.99,44.99,medium,low,6,namesilo,,,19/09/2026 06:04
+d64824d5-12d4-44ac-a2d2-995d3cf339f7,brutus.chat,available,5.38,36.43,high,low,6,spaceship,,,01/10/2026 18:49
 4b9c9bfc-7c90-4201-a8ee-a0c1c040a6c7,mental.chat,resell,,,high,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),04/08/2020 09:13,04/08/2027 09:13,26/09/2026 07:31
 38b41d70-0ea6-42a2-8eea-4bfd1a5000dc,unpackaged.chat,available,5.98,58.98,medium,low,10,namecheap,,,12/09/2026 16:23
 186c765c-ee3d-4421-87eb-70ecafb0a266,surviving.chat,available,5.98,58.98,high,low,9,namecheap,,,11/09/2026 04:49
@@ -758,7 +795,7 @@ a1b72936-64c7-4c18-9650-d05769647a03,deaths.chat,available,5.98,58.98,medium,low
 b49831c1-b297-4db0-87a3-e8219689b45f,alien.chat,resell,,,high,medium,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/09/2020 01:56,03/09/2027 01:56,26/09/2026 03:47
 a1f40cb7-469d-487e-b9c1-7ead5b78ba56,desired.chat,available,10.99,44.99,high,low,7,namesilo,,,24/09/2026 00:57
 a9436292-b226-45b6-931b-784cc00f7e17,resulting.chat,available,10.99,44.99,high,low,9,namesilo,,,29/09/2026 10:42
-e549694e-0783-406d-a530-9751ef6afe4b,adorables.chat,available,9.99,,high,low,9,name.com,,,
+e549694e-0783-406d-a530-9751ef6afe4b,adorables.chat,available,5.38,36.43,high,low,9,spaceship,,,02/10/2026 03:03
 1651b33e-8cd0-475d-9770-6f34003469d6,meekly.chat,available,5.98,58.98,medium,low,6,namecheap,,,15/09/2026 01:24
 ab1ecd0d-23d0-4d76-8da6-3217c96e3620,stepaside.chat,available,10.99,44.99,medium,low,10,namesilo,,,16/09/2026 15:09
 1a095ec9-ef82-4633-a368-28042a0ee10e,lii.chat,premium,21.45,42.9,medium,low,3,namecheap,,,
@@ -774,6 +811,7 @@ c94ae519-86dd-418a-9e43-ab1bb731bfaa,zealot.chat,available,5.98,58.98,medium,low
 de7b1dd3-f148-41a3-a2ee-9213454121e1,sacrificed.chat,available,5.98,58.98,low,low,10,namecheap,,,28/09/2026 17:16
 0ced10e9-df28-471d-8081-6679774f8549,hillsdale.chat,available,35.2,35.2,high,low,9,cloudflare,,,29/09/2026 22:46
 aa0d78a9-83c7-4bb6-9255-664944816c3c,lengthy.chat,available,5.98,58.98,high,low,7,namecheap,,,14/08/2026 18:32
+be6451d0-0a10-4e66-95c3-a429b302305e,mormons.chat,available,10.5,,high,low,7,unstoppable,,,02/10/2026 04:22
 a8204d7d-e292-4c49-bf65-235cdbdedc81,realise.chat,available,5.38,36.43,high,low,7,spaceship,,,27/09/2026 16:29
 ea4c10f5-501e-447c-ba37-27331f0e7fb4,supporters.chat,available,35.2,35.2,medium,low,10,cloudflare,,,30/09/2026 07:11
 defeef45-777e-4e16-a3b6-9f6fd5760881,anthozoa.chat,available,10.99,44.99,medium,low,8,namesilo,,,17/09/2026 05:01
@@ -790,6 +828,7 @@ c7545654-c322-4239-a2b2-98acd93231af,mandalay.chat,available,5.98,58.98,high,low
 c6188125-6052-42b4-a01a-df64a741a247,shadowy.chat,available,5.98,58.98,medium,low,7,namecheap,,,10/09/2026 05:28
 216d3180-430d-47a7-9256-f9ccabaa0235,pentatonic.chat,available,5.98,58.98,medium,low,10,namecheap,,,08/09/2026 15:05
 e342a417-d140-4e32-9aef-d4f9a49fff17,perfective.chat,available,5.98,58.98,medium,low,10,namecheap,,,08/09/2026 16:27
+9fa657b8-d379-4144-8d50-d3894e6b18ea,identifiable.chat,available,10.99,44.99,high,low,12,namesilo,,,01/10/2026 22:54
 3f301058-70bb-4f01-8b82-96f1ab47700c,benzene.chat,available,10.99,44.99,high,low,7,namesilo,,,23/09/2026 08:52
 0909a8ff-ac96-4bb3-868b-44e180bca29c,trumpery.chat,available,5.98,58.98,medium,low,8,namecheap,,,18/08/2026 23:50
 7a453ef0-fb33-4b9b-b0ee-103916b7dd16,distract.chat,available,5.38,36.43,high,low,8,spaceship,,,29/09/2026 16:05
@@ -819,15 +858,17 @@ a17e0f90-e306-4ef1-aff5-86485fdb9720,plains.chat,available,10.99,44.99,medium,lo
 0118b57f-3047-41f7-aa51-9e44e60acb33,indulge.chat,available,10.99,44.99,high,low,7,namesilo,,,21/09/2026 13:04
 9ad5d523-4a89-41de-83de-34dd1fd37ca9,gunn.chat,available,10.99,44.99,medium,low,4,namesilo,,,27/09/2026 01:35
 1251da31-1a93-490f-af38-1af419c2ce97,tamaulipas.chat,available,10.5,,medium,low,10,unstoppable,,,30/09/2026 21:17
-28dafead-fb65-4db7-afca-a23ae6518c6d,hans.chat,available,9.99,,high,low,4,name.com,,,
+28dafead-fb65-4db7-afca-a23ae6518c6d,hans.chat,available,10.99,44.99,high,low,4,namesilo,,,01/10/2026 11:24
 2d525a39-3db5-4f72-9e6b-1382a675df93,expressions.chat,available,5.98,58.98,medium,low,11,namecheap,,,30/09/2026 06:00
 fcb7a9e8-0458-43c2-b84c-85841d441866,capture.chat,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",07/08/2022 17:00,07/08/2027 17:00,26/09/2026 04:46
 82bfd464-40fa-4a14-82ae-c1adbf528074,aes.chat,premium,34.36,68.51,high,low,3,spaceship,,,29/09/2026 09:48
 a6e494f8-8b62-4b23-932e-0cf1d3a0c9c7,cultivars.chat,available,10.99,44.99,low,low,9,namesilo,,,28/09/2026 00:23
 0faa15cd-2c84-44da-823f-20d36b3e1cd0,androgenic.chat,available,5.98,58.98,medium,low,10,namecheap,,,
 6be7e8d6-cfb6-435a-b201-c2e84c46d073,amati.chat,available,10.99,44.99,medium,low,5,namesilo,,,18/09/2026 16:09
+4db87526-f242-432c-b9ff-f2533f2395f0,shocks.chat,available,5.66,36.56,low,low,6,porkbun,,,01/10/2026 18:17
 a25c7b2d-2aaf-4dc7-a750-3ecdd6934ec2,paget.chat,available,10.99,44.99,medium,low,5,namesilo,,,29/09/2026 01:47
 0e14c864-37ae-40c0-bc71-7496c4ea5708,carved.chat,available,5.98,58.98,high,low,6,namecheap,,,11/08/2026 19:57
+d2b5ca27-39fc-46a9-9c81-9e4e0b856923,mitterrand.chat,available,5.38,36.43,medium,low,10,spaceship,,,02/10/2026 04:57
 a92e0043-7edf-4157-be99-265b4fe91012,truro.chat,available,35.2,35.2,medium,low,5,cloudflare,,,30/09/2026 13:15
 b1516572-cb89-42d1-a3a1-390f398c62ff,positions.chat,available,10.99,44.99,medium,low,9,namesilo,,,19/09/2026 00:35
 3a87c5dd-1b25-4d00-b66f-2dccc99d79f4,bestial.chat,available,5.98,58.98,medium,low,7,namecheap,,,09/08/2026 17:57
@@ -842,12 +883,13 @@ e6c72c09-13a2-4b26-a1d8-616368509371,demode.chat,available,5.98,58.98,low,low,6,
 81e6560f-c13d-420c-8eb5-71506a4571f1,ingredient.chat,available,10.99,44.99,high,low,10,namesilo,,,24/09/2026 16:51
 5445960b-fe0f-44eb-818b-55a84feaaed7,unfrozen.chat,available,5.98,58.98,medium,low,8,namecheap,,,12/09/2026 10:54
 e4a132f5-6d6f-4714-aa93-8021c51989dc,hung.chat,available,10.99,44.99,medium,low,4,namesilo,,,27/09/2026 08:46
+52f6031b-6c9a-435c-baaa-7764e55de46f,fsh.chat,premium,33.5,,high,low,3,unstoppable,,,02/10/2026 04:54
 e4eef7b1-9aeb-4ede-9cf0-559335eae303,waxen.chat,available,5.98,58.98,medium,low,5,namecheap,,,13/09/2026 08:42
 78904fa2-3064-4198-8d2a-5f60f67aa468,consume.chat,available,10.99,44.99,high,low,7,namesilo,,,29/09/2026 02:37
 68e3a4ef-af13-47a7-90fa-4c91e6e5dc37,slipping.chat,available,5.98,58.98,medium,low,8,namecheap,,,10/09/2026 11:05
 5651820c-fc4a-43c7-8655-85f409e7975e,elysian.chat,available,5.98,58.98,high,low,7,namecheap,,,16/08/2026 06:18
 ccefc900-a656-4d6f-9b65-c77253136efb,noachian.chat,available,5.98,58.98,medium,low,8,namecheap,,,03/09/2026 17:58
-aed0559a-0e0a-4e23-9b7b-3f2704586e62,wastebasket.chat,available,9.99,,high,low,11,name.com,,,
+aed0559a-0e0a-4e23-9b7b-3f2704586e62,wastebasket.chat,available,10.99,44.99,high,low,11,namesilo,,,02/10/2026 00:52
 6f9ddf97-2e7b-45b8-8c2f-60c9c90993f7,astacus.chat,available,10.99,44.99,medium,low,7,namesilo,,,20/09/2026 16:51
 40c1e1f1-3d13-439e-bb42-9aeed66d2a63,waited.chat,available,10.99,44.99,medium,low,6,namesilo,,,18/09/2026 01:45
 a9ab3528-58f1-4cde-81aa-4d3ce130b2c6,unsinkable.chat,available,5.98,58.98,medium,low,10,namecheap,,,12/09/2026 19:58
@@ -862,6 +904,7 @@ fcd08701-3679-4b2f-aa9f-4816ca943588,ascension.chat,resell,,,high,low,9,Dynadot 
 9a996fd9-c904-4db4-9212-af311601b413,waterfall.chat,available,5.38,36.43,high,low,9,spaceship,,,28/09/2026 20:46
 d7857b8b-126c-4e53-aed3-6f120d111883,roan.chat,available,5.98,58.98,high,low,4,namecheap,,,09/09/2026 18:08
 fef6662b-1b9b-4696-be86-a375efc4c6ba,tandy.chat,available,10.99,44.99,medium,low,5,namesilo,,,30/09/2026 10:18
+b0f5fe65-79d8-4e62-9cbe-90f81e34dfc5,nabokov.chat,available,35.2,35.2,medium,low,7,cloudflare,,,01/10/2026 21:08
 a948b06c-d7cb-4578-8954-2277f909318e,talented.chat,available,5.98,58.98,high,low,8,namecheap,,,18/08/2026 23:26
 17ba092d-d4ae-461f-b7ce-8fdd36f2f0af,tomboyish.chat,available,5.98,58.98,high,low,9,namecheap,,,21/08/2026 14:32
 51189ba8-aa35-470a-b5e6-f12e9a41fc5f,henley.chat,available,10.5,,high,low,6,unstoppable,,,28/09/2026 03:36
@@ -926,9 +969,11 @@ e56007d5-a481-472d-bfdf-64c01e1b3fa8,sfc.chat,premium,34.36,68.51,high,low,3,spa
 b3b3a561-9da9-4016-8821-0f0cadd87261,beanstalk.chat,available,5.98,58.98,high,low,9,namecheap,,,22/09/2026 20:43
 617d4165-41d4-4a6c-b44f-18f8d16782ab,extremely.chat,available,5.98,58.98,medium,low,9,namecheap,,,27/09/2026 02:51
 b29edb9d-6fa1-45d9-8da4-ac15d39e785c,politely.chat,available,5.66,36.56,medium,low,8,porkbun,,,28/09/2026 14:24
+c8476946-0a32-4cf3-88d9-5114293f1e09,academical.chat,available,5.38,36.43,high,low,10,spaceship,,,01/10/2026 22:17
 e3508800-2b96-4e10-be17-98b20454114c,illume.chat,available,5.98,58.98,high,low,6,namecheap,,,23/08/2026 02:41
 5a70f843-bc9f-4427-a01b-573e57242914,constraints.chat,available,10.99,44.99,low,low,11,namesilo,,,20/09/2026 23:49
 ccb75d7b-1059-4149-a82d-432db45f8793,bengali.chat,premium,21.45,42.9,medium,low,7,namecheap,,,09/08/2026 14:29
+8dd687cf-3daf-40de-aae6-178b1097cda4,vojvodina.chat,available,5.38,36.43,medium,low,9,spaceship,,,01/10/2026 23:46
 6a7d5bdc-e90d-4e8e-ad36-b2bbc2cd2f80,nutritional.chat,available,5.98,58.98,high,low,11,namecheap,,,30/09/2026 11:42
 f48e35fb-5084-4143-b488-3312338df304,apical.chat,available,5.98,58.98,medium,low,6,namecheap,,,05/08/2026 23:58
 c97d9a41-776b-4df6-b107-7a5ef5ee2317,various.chat,available,5.38,36.43,high,low,7,spaceship,,,28/09/2026 10:11
@@ -954,48 +999,3 @@ e5373cd0-2c0d-4dc8-871f-c35a65f73e6c,pimento.chat,available,10.99,44.99,medium,l
 84c01136-8e91-4c2d-aa07-118008c6ba4f,blurred.chat,available,10.99,44.99,medium,low,7,namesilo,,,22/09/2026 23:21
 6fd4e403-24a3-40b9-8f9d-40843d93cc9d,ataractic.chat,available,5.98,58.98,low,low,9,namecheap,,,07/08/2026 12:44
 ce8c0714-7812-4990-9a49-f8f591caf147,aegean.chat,available,5.98,58.98,high,low,6,namecheap,,,
-6d4ef100-dccc-4bf7-8f46-b9693fb41911,shooters.chat,available,5.66,36.56,medium,low,8,porkbun,,,01/10/2026 00:26
-52eb7e68-8b9e-4de4-95be-33da6c039325,andantino.chat,available,5.98,58.98,medium,low,9,namecheap,,,
-9860c353-a710-4238-ae34-3cbef36ba1d1,twisting.chat,available,5.98,58.98,high,low,8,namecheap,,,11/09/2026 21:52
-d61ef64f-9282-41f1-bfb0-d01f2cd8a1d2,remembered.chat,available,10.99,44.99,high,low,10,namesilo,,,17/09/2026 12:04
-d05bef31-a0ff-48a9-819d-5c792e0855d2,andrei.chat,available,10.99,44.99,high,low,6,namesilo,,,28/09/2026 04:07
-34c4f3de-1874-4c0c-bc10-d18493d82064,humanist.chat,available,5.98,58.98,high,low,8,namecheap,,,21/08/2026 14:50
-4a428ae7-ed2e-4e03-ad9f-c49fe1a18e5b,timorese.chat,available,5.98,58.98,medium,low,8,namecheap,,,11/09/2026 16:04
-45c7e39f-ec9e-4995-bef5-d91cf3ef352b,forgotten.chat,available,5.98,58.98,medium,low,9,namecheap,,,14/08/2026 12:18
-4710975f-8c6c-4f8f-9b02-3f88aa9ae09e,antapex.chat,available,10.99,44.99,medium,low,7,namesilo,,,19/09/2026 12:32
-22bd6f4a-c5f0-4133-a8ab-4241308c4d04,cluttered.chat,available,5.98,58.98,medium,low,9,namecheap,,,12/08/2026 13:12
-bab078f9-c248-465a-aac0-4c63e7d13a19,boris.chat,available,5.98,58.98,high,low,5,namecheap,,,25/09/2026 20:39
-303f21b8-3c2b-4f39-aa79-139294f6c764,tiberius.chat,available,5.38,36.43,medium,low,8,spaceship,,,28/09/2026 20:38
-32c8c0fd-3d5e-4315-8e26-b11e8fbec4e3,remains.chat,available,5.98,58.98,medium,low,7,namecheap,,,27/09/2026 03:27
-e8eff3b9-3670-4536-a24b-cbb6dae39cb4,aloe.chat,available,10.99,44.99,high,low,4,namesilo,,,18/09/2026 12:59
-abbc7935-fc0e-4572-84a4-4773373917d2,torturing.chat,available,5.98,58.98,medium,low,9,namecheap,,,
-3c50d909-ff7a-493f-96ce-56cdd2b85504,occidental.chat,available,5.98,58.98,medium,low,10,namecheap,,,21/08/2026 07:25
-072ec37d-6828-4e9a-ba6c-bee850131255,wiped.chat,available,5.57,37.55,low,low,5,dynadot,,,28/09/2026 04:58
-d12f1243-30b3-44ca-8345-b0bab7b42f7b,gawky.chat,available,5.98,58.98,medium,low,5,namecheap,,,12/08/2026 13:06
-75557af7-6895-43d3-8128-0703c29c397a,vein.chat,available,35.2,35.2,high,low,4,cloudflare,,,30/09/2026 04:35
-f5e18f8a-3621-4d99-8d6f-17f1dae23f96,flesh.chat,available,10.99,44.99,high,low,5,namesilo,,,25/09/2026 21:58
-eedc06c9-15d3-4402-9f37-aeed7b10d8d6,debacle.chat,available,5.98,58.98,medium,low,7,namecheap,,,13/09/2026 07:56
-318adf6c-0f8e-4177-83aa-b3c8f0c4272d,evanston.chat,available,5.38,36.43,medium,low,8,spaceship,,,28/09/2026 08:11
-3b05b9ba-6a98-44c6-88a0-16b813a79468,riveting.chat,available,10.99,44.99,high,low,8,namesilo,,,21/09/2026 15:09
-a4f1ed8f-c774-47bd-8cee-2386ced2db33,sherbrooke.chat,available,10.99,44.99,medium,low,10,namesilo,,,30/09/2026 21:48
-11d4ec84-5814-43f1-8aa7-023c093d2514,dismissive.chat,available,5.98,58.98,medium,low,10,namecheap,,,14/08/2026 11:49
-0d39a5e8-f07a-4677-8a6b-c5a332c9e6b4,summertime.chat,available,10.99,44.99,high,low,11,namesilo,,,18/09/2026 00:39
-27ca77fc-45d0-4158-841c-882abed0e3e3,societies.chat,available,5.98,58.98,high,low,9,namecheap,,,30/09/2026 06:42
-284b6aad-9e26-4bf8-b432-ff7928316a67,archetypal.chat,available,5.98,58.98,medium,low,10,namecheap,,,06/08/2026 15:32
-f3fe0a50-4aec-465f-8a42-598716568580,foxily.chat,available,5.98,58.98,medium,low,6,namecheap,,,14/09/2026 09:04
-3fd64f13-1701-46b2-82f9-6685a1d5aa60,kills.chat,available,5.98,58.98,medium,low,5,namecheap,,,25/09/2026 21:19
-cabe484e-14b7-41a9-b16e-96e030b93f80,corrugated.chat,available,5.98,58.98,medium,low,10,namecheap,,,13/08/2026 02:13
-6a00e168-d709-4a3f-aec7-bbaee9e411f3,bum.chat,premium,21.45,42.9,medium,low,3,namecheap,,,09/08/2026 10:49
-8aa4bfd1-6572-4dcb-806d-2f0c9cf063e6,chooses.chat,available,5.38,36.43,low,low,7,spaceship,,,28/09/2026 18:06
-ccd919a7-c234-47ec-a7ee-d73dba2ab038,quake.chat,available,10.99,44.99,medium,low,5,namesilo,,,29/09/2026 18:44
-cf7e9671-d665-4ea9-8a05-66ad4775f84c,emergencies.chat,available,5.57,37.55,medium,low,11,dynadot,,,29/09/2026 16:56
-ac40c800-41cd-461e-aee8-80e3a9b50885,meigs.chat,available,10.99,44.99,medium,low,5,namesilo,,,30/09/2026 05:37
-88fe83cd-89ba-43d1-8d1a-8c2745733f09,evocative.chat,available,5.98,58.98,high,low,9,namecheap,,,17/08/2026 15:14
-68131fd1-f102-4937-a307-493da8753d9f,sprightly.chat,available,5.98,58.98,high,low,9,namecheap,,,10/09/2026 16:49
-901b3bbe-3491-467e-ace1-daaf2a832297,roll.chat,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",01/12/2025 15:15,01/12/2026 15:15,27/09/2026 15:56
-12bd5ec4-0b19-4de2-a9bb-32e2b37d4bbe,laptops.chat,available,10.99,44.99,medium,low,7,namesilo,,,20/09/2026 12:33
-f36610a7-37fb-4b92-ab0b-1f60a175277c,mccall.chat,available,35.2,35.2,medium,low,6,cloudflare,,,27/09/2026 21:08
-7f3e42c4-c2d8-4eb1-b369-099ee2d325f8,slovene.chat,available,5.38,36.43,medium,low,7,spaceship,,,28/09/2026 20:30
-41e43999-91a5-470b-b1ad-4f7d8ff2aecc,opm.chat,premium,66.5,,high,low,3,unstoppable,,,30/09/2026 04:51
-16297717-f2aa-4a1b-992d-b79c6074e15e,portrait.chat,available,10.99,44.99,high,low,8,namesilo,,,28/09/2026 02:57
-a1e72874-2803-4e73-a042-993e3cc07a47,abstruse.chat,available,5.98,58.98,medium,low,8,namecheap,,,
